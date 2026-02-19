@@ -1,0 +1,61 @@
+Here is a comprehensive choreography design for a contemporary dance trio.
+
+### Part 1: Meta-Analysis & Setup
+
+**1. Dance Style:**
+**Contemporary (Floorwork & Release Technique Fusion).** The movement vocabulary focuses on gravity, momentum, breath, and the contrast between fluid, weighted movements and sharp, angular isolations.
+
+**2. Mood & Narrative Arc:**
+*   **Title:** *The Tensile Strength of Glass*
+*   **Mood:** Claustrophobic, magnetic, volatile, eventually brittle.
+*   **Narrative:** The piece explores a symbiotic relationship that is forcefully dismantled. It begins with a suffocating closeness, introduces a catalyst for chaos, and ends in fractured isolation.
+
+**3. Dancers & Roles (3 Dancers):**
+*   **Dancer A (The Anchor):** *Male or Female.* Grounded, heavy, initiates movement from the core. They are the center of gravity.
+*   **Dancer B (The Orbit):** *Male or Female.* Fluid, reactive, limb-centric. They are physically attached to or circling A.
+*   **Dancer C (The Fracture):** *Male or Female.* Sharp, staccato, fast. They are the external force that breaks the bond between A and B.
+
+**4. Structural Breakdown (75 Seconds):**
+*   **0:00–0:15 (Cohesion):** A & B in a tight knot, slow-motion evolution.
+*   **0:15–0:30 (The Hairline Crack):** C enters; the environment shifts. A & B are disturbed.
+*   **0:30–0:55 (Impact):** High-energy trio contact work. The struggle for equilibrium.
+*   **0:55–1:15 (Shatter & Dissipation):** Explosive separation, stillness, and exit.
+
+**5. Stage Layout:**
+*   **Center Stage (CS):** The starting point of the bond.
+*   **Upstage Left (USL):** The entry point of danger (Dancer C).
+*   **Downstage Right (DSR):** The point of isolation.
+
+---
+
+### Part 2: Final Choreography Script
+
+**Music Suggestion:** A minimalist cello score with underlying industrial static/drone.
+
+#### Section 1: Cohesion (0:00 – 0:15)
+*   **Stage State:** **Dancer A** and **Dancer B** are already on stage at **Center Stage**. **Dancer C** is off-stage (Wing USL).
+*   **0:00 – 0:05:** **A** is in a deep, wide second-position plié (grand plié). **B** is standing behind **A**, leaning their full back weight against **A**’s back, head resting on **A**’s shoulder. They breathe in sync—shoulders rising and falling heavily.
+*   **0:05 – 0:10:** **A** slowly rotates the torso to the right. **B** allows this momentum to slide them around **A**’s body. **B** spirals down to the floor, wrapping a leg around **A**’s ankle.
+*   **0:10 – 0:15:** **A** performs a slow, resisted extension of the right arm upward. **B**, from the floor, reaches up and grasps **A**’s wrist. **A** pulls **B** up from the floor into a counterbalance lean. They are frozen in a precarious angle.
+
+#### Section 2: The Hairline Crack (0:15 – 0:30)
+*   **0:15 – 0:18:** **ENTER Dancer C** from **Upstage Left**. C sprints silently to **Upstage Center**, stopping abruptly in a sharp, angular shape (one arm jaggedly raised, knee bent inward).
+*   **0:18 – 0:22:** **C** performs a rapid sequence of isolations: head twitch, shoulder roll, drop to plank, and immediate recovery to standing.
+*   **0:22 – 0:25:** **A** and **B** break their gaze. **A** drops **B**’s hand. **B** stumbles slightly toward **Downstage Left**. The bond is disturbed.
+*   **0:25 – 0:30:** **C** slices through the space between **A** and **B**, performing a *grand jeté* ending in a floor roll. **C** stops exactly between them. All three freeze, looking at each other.
+
+#### Section 3: Impact (0:30 – 0:55)
+*   **0:30 – 0:35:** Chaos ensues. **C** grabs **A**’s waist and pulls them backward. **B** chases, diving toward **A**.
+*   **0:35 – 0:40:** **Trio Lift:** **A** plants feet firmly. **C** jumps onto **A**’s back. **B** slides through **A**’s legs from the front. **A** spins once with this double weight.
+*   **0:40 – 0:45:** The group unravels. **C** pushes **B** violently toward **Stage Right**. **B** performs a *chassé* into a barrel turn, recovering low to the ground.
+*   **0:45 – 0:50:** **A** tries to reach **B**, but **C** intercepts. **C** and **A** engage in a "push-hands" struggle—weight shifting back and forth rapidly.
+*   **0:50 – 0:55:** **B** runs from **Stage Right** and leaps onto **C** and **A**, collapsing the structure. All three dancers fall to the floor in a heap at **Center Stage**.
+
+#### Section 4: Shatter & Dissipation (0:55 – 1:15)
+*   **0:55 – 1:00:** Explosive release. **A** rolls rapidly **Upstage**. **B** scrambles on hands and feet to **Downstage Right**. **C** stands up immediately at **Center**, dominating the space.
+*   **1:00 – 1:05:** **C** performs a solo of victory—sharp, vertical jumps and aggressive arm swings. **A** and **B** are on the floor at the edges of the stage, performing small, repetitive twitching movements (echoing C's entry).
+*   **1:05 – 1:10:** **EXIT Dancer C**. **C** walks calmly and slowly off **Downstage Left**, not looking back.
+*   **1:10 – 1:15:** **A** (Upstage) and **B** (Downstage Right) slowly sit up. They look across the empty stage at each other. They raise one hand toward the empty space in the center.
+*   **1:15:** Lights Blackout.
+
+**End of Piece.**

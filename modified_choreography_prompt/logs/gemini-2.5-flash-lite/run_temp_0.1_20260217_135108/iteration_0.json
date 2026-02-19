@@ -1,0 +1,566 @@
+{
+  "dancers": [
+    "Dancer A",
+    "Dancer B",
+    "Dancer C",
+    "Dancer D"
+  ],
+  "duration": 90.0,
+  "events": [
+    {
+      "id": 1,
+      "dancer": "Dancer A",
+      "action": "enter",
+      "start": 0.0,
+      "end": 0.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": 2,
+      "dancer": "Dancer A",
+      "action": "discovered in deep plié, head bowed",
+      "start": 0.0,
+      "end": 10.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": 3,
+      "dancer": "Dancer B",
+      "action": "enter",
+      "start": 0.0,
+      "end": 0.0,
+      "from": {
+        "x": 24,
+        "y": 0
+      },
+      "to": {
+        "x": 24,
+        "y": 0
+      }
+    },
+    {
+      "id": 4,
+      "dancer": "Dancer B",
+      "action": "discovered in deep plié, facing away",
+      "start": 0.0,
+      "end": 10.0,
+      "from": {
+        "x": 24,
+        "y": 0
+      },
+      "to": {
+        "x": 24,
+        "y": 0
+      }
+    },
+    {
+      "id": 5,
+      "dancer": "Dancer C",
+      "action": "enter",
+      "start": 0.0,
+      "end": 0.0,
+      "from": {
+        "x": 24,
+        "y": 12
+      },
+      "to": {
+        "x": 24,
+        "y": 12
+      }
+    },
+    {
+      "id": 6,
+      "dancer": "Dancer C",
+      "action": "discovered standing with one leg extended back, arms reaching",
+      "start": 0.0,
+      "end": 10.0,
+      "from": {
+        "x": 24,
+        "y": 12
+      },
+      "to": {
+        "x": 24,
+        "y": 12
+      }
+    },
+    {
+      "id": 7,
+      "dancer": "Dancer A",
+      "action": "slowly unfurls, rising to standing, arms trace slow circular path",
+      "start": 10.0,
+      "end": 20.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": 8,
+      "dancer": "Dancer B",
+      "action": "mirrors A's unfurling with delay, arms trace similar path with less definition",
+      "start": 11.0,
+      "end": 21.0,
+      "from": {
+        "x": 24,
+        "y": 0
+      },
+      "to": {
+        "x": 24,
+        "y": 0
+      }
+    },
+    {
+      "id": 9,
+      "dancer": "Dancer C",
+      "action": "shifts weight, brings extended leg forward into low lunge, gaze sweeps stage",
+      "start": 10.0,
+      "end": 20.0,
+      "from": {
+        "x": 24,
+        "y": 12
+      },
+      "to": {
+        "x": 24,
+        "y": 14
+      }
+    },
+    {
+      "id": 10,
+      "dancer": "Dancer A",
+      "action": "takes slow, deliberate step towards center, arms extend palms up",
+      "start": 20.0,
+      "end": 30.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 13,
+        "y": 12
+      }
+    },
+    {
+      "id": 11,
+      "dancer": "Dancer B",
+      "action": "begins to move from upstage right, path curving towards center",
+      "start": 20.0,
+      "end": 30.0,
+      "from": {
+        "x": 24,
+        "y": 0
+      },
+      "to": {
+        "x": 23,
+        "y": 2
+      }
+    },
+    {
+      "id": 12,
+      "dancer": "Dancer C",
+      "action": "pushes off from lunge, takes gliding steps towards center",
+      "start": 20.0,
+      "end": 30.0,
+      "from": {
+        "x": 24,
+        "y": 14
+      },
+      "to": {
+        "x": 22,
+        "y": 13
+      }
+    },
+    {
+      "id": 13,
+      "dancer": "Dancer A",
+      "action": "reaches center and sinks into low crouch, head bowed",
+      "start": 30.0,
+      "end": 45.0,
+      "from": {
+        "x": 13,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": 14,
+      "dancer": "Dancer B",
+      "action": "arrives near A, circles A slowly, movements softer echo of A's unfurling",
+      "start": 30.0,
+      "end": 45.0,
+      "from": {
+        "x": 23,
+        "y": 2
+      },
+      "to": {
+        "x": 13,
+        "y": 11
+      }
+    },
+    {
+      "id": 15,
+      "dancer": "Dancer C",
+      "action": "stops a few feet from A and B, observes, performs small sharp isolations",
+      "start": 30.0,
+      "end": 45.0,
+      "from": {
+        "x": 22,
+        "y": 13
+      },
+      "to": {
+        "x": 20,
+        "y": 13
+      }
+    },
+    {
+      "id": 16,
+      "dancer": "Dancer D",
+      "action": "enters from upstage left, moving with direct, urgent quality, crosses diagonally",
+      "start": 45.0,
+      "end": 55.0,
+      "from": {
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "x": 20,
+        "y": 12
+      }
+    },
+    {
+      "id": 17,
+      "dancer": "Dancer A",
+      "action": "remains in crouch, head lifts slightly to acknowledge D's entrance",
+      "start": 45.0,
+      "end": 55.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": 18,
+      "dancer": "Dancer B",
+      "action": "pauses circling, turns to face D, body alert",
+      "start": 45.0,
+      "end": 55.0,
+      "from": {
+        "x": 13,
+        "y": 11
+      },
+      "to": {
+        "x": 14,
+        "y": 10
+      }
+    },
+    {
+      "id": 19,
+      "dancer": "Dancer C",
+      "action": "shifts focus to D, isolations become more pronounced",
+      "start": 45.0,
+      "end": 55.0,
+      "from": {
+        "x": 20,
+        "y": 13
+      },
+      "to": {
+        "x": 19,
+        "y": 14
+      }
+    },
+    {
+      "id": 20,
+      "dancer": "Dancer D",
+      "action": "reaches downstage right, performs sharp percussive sequence of jumps and turns",
+      "start": 55.0,
+      "end": 65.0,
+      "from": {
+        "x": 20,
+        "y": 12
+      },
+      "to": {
+        "x": 24,
+        "y": 12
+      }
+    },
+    {
+      "id": 21,
+      "dancer": "Dancer A",
+      "action": "slowly rises and takes steps towards D, grounded but curious",
+      "start": 55.0,
+      "end": 65.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 14,
+        "y": 12
+      }
+    },
+    {
+      "id": 22,
+      "dancer": "Dancer B",
+      "action": "moves to meet A, paths converging, palpable tension",
+      "start": 55.0,
+      "end": 65.0,
+      "from": {
+        "x": 14,
+        "y": 10
+      },
+      "to": {
+        "x": 15,
+        "y": 11
+      }
+    },
+    {
+      "id": 23,
+      "dancer": "Dancer C",
+      "action": "moves weaving through space between A and D, expansive movement towards wings",
+      "start": 55.0,
+      "end": 65.0,
+      "from": {
+        "x": 19,
+        "y": 14
+      },
+      "to": {
+        "x": 18,
+        "y": 15
+      }
+    },
+    {
+      "id": 24,
+      "dancer": "Dancer D",
+      "action": "stops energetic movement, extends hand towards Dancer A",
+      "start": 65.0,
+      "end": 75.0,
+      "from": {
+        "x": 24,
+        "y": 12
+      },
+      "to": {
+        "x": 23,
+        "y": 12
+      }
+    },
+    {
+      "id": 25,
+      "dancer": "Dancer A",
+      "action": "reaches out, fingertips brush D's",
+      "start": 65.0,
+      "end": 75.0,
+      "from": {
+        "x": 14,
+        "y": 12
+      },
+      "to": {
+        "x": 15,
+        "y": 12
+      }
+    },
+    {
+      "id": 26,
+      "dancer": "Dancer B",
+      "action": "mirrors A's gesture, hand reaches towards D, doesn't connect",
+      "start": 65.0,
+      "end": 75.0,
+      "from": {
+        "x": 15,
+        "y": 11
+      },
+      "to": {
+        "x": 16,
+        "y": 11
+      }
+    },
+    {
+      "id": 27,
+      "dancer": "Dancer C",
+      "action": "performs sweeping arm gesture encompassing stage, gaze sweeps across dancers",
+      "start": 65.0,
+      "end": 75.0,
+      "from": {
+        "x": 18,
+        "y": 15
+      },
+      "to": {
+        "x": 17,
+        "y": 16
+      }
+    },
+    {
+      "id": 28,
+      "dancer": "Dancer D",
+      "action": "pulls hand back, turns, moves with subdued energy towards upstage right",
+      "start": 75.0,
+      "end": 85.0,
+      "from": {
+        "x": 23,
+        "y": 12
+      },
+      "to": {
+        "x": 24,
+        "y": 2
+      }
+    },
+    {
+      "id": 29,
+      "dancer": "Dancer A",
+      "action": "slowly retracts hand, sinks back into low plié, gaze returns to floor",
+      "start": 75.0,
+      "end": 85.0,
+      "from": {
+        "x": 15,
+        "y": 12
+      },
+      "to": {
+        "x": 14,
+        "y": 12
+      }
+    },
+    {
+      "id": 30,
+      "dancer": "Dancer B",
+      "action": "mirrors A's retraction and plié, aligned with A's stillness",
+      "start": 75.0,
+      "end": 85.0,
+      "from": {
+        "x": 16,
+        "y": 11
+      },
+      "to": {
+        "x": 15,
+        "y": 11
+      }
+    },
+    {
+      "id": 31,
+      "dancer": "Dancer C",
+      "action": "moves towards center, pivots, begins to walk slowly towards upstage left",
+      "start": 75.0,
+      "end": 85.0,
+      "from": {
+        "x": 17,
+        "y": 16
+      },
+      "to": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "id": 32,
+      "dancer": "Dancer D",
+      "action": "exit",
+      "start": 85.0,
+      "end": 85.0,
+      "from": {
+        "x": 24,
+        "y": 2
+      },
+      "to": {
+        "x": 24,
+        "y": 2
+      }
+    },
+    {
+      "id": 33,
+      "dancer": "Dancer C",
+      "action": "exit",
+      "start": 85.0,
+      "end": 85.0,
+      "from": {
+        "x": 1,
+        "y": 1
+      },
+      "to": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "id": 34,
+      "dancer": "Dancer A",
+      "action": "remains in plié, breath visible",
+      "start": 85.0,
+      "end": 90.0,
+      "from": {
+        "x": 14,
+        "y": 12
+      },
+      "to": {
+        "x": 14,
+        "y": 12
+      }
+    },
+    {
+      "id": 35,
+      "dancer": "Dancer B",
+      "action": "remains in plié, subtle echo of A's stillness",
+      "start": 85.0,
+      "end": 90.0,
+      "from": {
+        "x": 15,
+        "y": 11
+      },
+      "to": {
+        "x": 15,
+        "y": 11
+      }
+    },
+    {
+      "id": 36,
+      "dancer": "Dancer A",
+      "action": "exit",
+      "start": 90.0,
+      "end": 90.0,
+      "from": {
+        "x": 14,
+        "y": 12
+      },
+      "to": {
+        "x": 14,
+        "y": 12
+      }
+    },
+    {
+      "id": 37,
+      "dancer": "Dancer B",
+      "action": "exit",
+      "start": 90.0,
+      "end": 90.0,
+      "from": {
+        "x": 15,
+        "y": 11
+      },
+      "to": {
+        "x": 15,
+        "y": 11
+      }
+    }
+  ]
+}

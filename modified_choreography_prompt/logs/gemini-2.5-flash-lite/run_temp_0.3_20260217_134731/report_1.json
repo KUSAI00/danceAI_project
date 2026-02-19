@@ -1,0 +1,53 @@
+{
+  "valid": false,
+  "violations": [
+    {
+      "type": "speed_violation",
+      "dancer": "C",
+      "time": 30,
+      "distance": 8
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "C",
+      "time": 31,
+      "distance": 8
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "C",
+      "time": 32,
+      "distance": 8
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "C",
+      "time": 49,
+      "distance": 12
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D",
+      "time": 45,
+      "distance": 6
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D",
+      "time": 46,
+      "distance": 6
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D",
+      "time": 47,
+      "distance": 6
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D",
+      "time": 48,
+      "distance": 6
+    }
+  ]
+}

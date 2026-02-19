@@ -1,0 +1,106 @@
+## Choreography Design System: "Echoes of the Unseen"
+
+**1. Meta-Analysis & Setup:**
+
+*   **Dance Style:** Contemporary Dance with strong elements of Release Technique and Contact Improvisation.
+*   **Mood:** Introspective, melancholic, with moments of fleeting connection and underlying tension.
+*   **Narrative Arc:** The piece explores the subtle, often unspoken, connections and disconnections between individuals within a shared space. It begins with a sense of isolation, moves through tentative explorations of proximity and shared experience, and concludes with a return to individual contemplation, but with a lingering sense of what was shared.
+*   **Dancer Roles & Dynamics (4 Dancers):**
+    *   **Dancer A (The Anchor):** Grounded, often initiating stillness or slow, deliberate movements. Represents a stable, perhaps solitary, presence.
+    *   **Dancer B (The Echo):** Mirrors or subtly echoes Dancer A's movements, but with a slight delay or variation. Represents a subconscious connection or a reflection of another's state.
+    *   **Dancer C (The Wanderer):** Explores the periphery, often in contrast to the central dynamic. Represents an independent spirit, observing or seeking.
+    *   **Dancer D (The Catalyst):** Enters with more dynamic energy, disrupting existing patterns and initiating brief moments of interaction. Represents external influence or a spark of change.
+
+*   **Structure (75 seconds):**
+
+    *   **Section 1: Solitude & Observation (0:00 - 0:20)**
+        *   Focus: Establishing individual spaces and a sense of isolation.
+        *   Spatial Usage: Dancers occupy distinct quadrants of the stage.
+        *   Dancers: A, B, C.
+
+    *   **Section 2: Tentative Proximity (0:20 - 0:45)**
+        *   Focus: Dancers begin to acknowledge each other's presence, exploring shared space with caution.
+        *   Spatial Usage: Movement towards the center, brief moments of shared focus.
+        *   Dancers: A, B, C.
+
+    *   **Section 3: The Catalyst's Arrival (0:45 - 1:05)**
+        *   Focus: Dancer D enters, disrupting the established patterns and creating new dynamics.
+        *   Spatial Usage: Increased movement across the stage, potential for brief contact.
+        *   Dancers: A, B, C, D.
+
+    *   **Section 4: Fleeting Connection & Dissipation (1:05 - 1:25)**
+        *   Focus: Moments of shared movement or intense eye contact, followed by a return to individual pathways.
+        *   Spatial Usage: Dynamic shifts, dancers weaving through each other.
+        *   Dancers: A, B, C, D.
+
+**2. Spatial Planning:**
+
+*   **Stage Layout:** The stage is a blank canvas.
+*   **Section 1:**
+    *   Dancer A: Center stage, downstage left.
+    *   Dancer B: Upstage right, mirroring A's general orientation.
+    *   Dancer C: Downstage right, facing the audience.
+*   **Section 2:**
+    *   Dancer A & B: Begin to drift towards the center, maintaining a subtle awareness of each other.
+    *   Dancer C: Moves from downstage right towards the center, observing A and B.
+*   **Section 3:**
+    *   Dancer D: Enters from upstage left, moving with a more direct, searching quality.
+    *   All dancers will now occupy a more fluid, interconnected space.
+*   **Section 4:**
+    *   Dancers will utilize the full stage, with moments of close proximity in the center and expansive movements towards the wings.
+
+**3. Final Output Generation:**
+
+**(Music begins: A sparse, ambient soundscape with a melancholic piano melody.)**
+
+**0:00 - 0:10**
+*   **Dancer A** is discovered center stage, downstage left, in a deep plié, head bowed. Their breath is visible.
+*   **Dancer B** is discovered upstage right, in a similar deep plié, facing away from the audience, their back a mirror to A's posture.
+*   **Dancer C** is discovered downstage right, standing with one leg extended back, arms reaching out to the sides, a sense of quiet observation.
+
+**0:10 - 0:20**
+*   **Dancer A** slowly unfurls, rising to a standing position. Their arms trace a slow, circular path in front of their body.
+*   **Dancer B** mirrors A's unfurling, but with a slight delay, their movement a softer echo. Their arms trace a similar path, but with less definition.
+*   **Dancer C** shifts their weight, bringing their extended leg forward into a low lunge. Their gaze sweeps across the stage, briefly acknowledging A and B.
+
+**0:20 - 0:30**
+*   **Dancer A** takes a slow, deliberate step towards the center of the stage. Their arms extend outwards, palms facing up.
+*   **Dancer B** begins to move from upstage right, their path curving towards the center. They are not directly following A, but their trajectory is influenced by A's presence.
+*   **Dancer C** pushes off from their lunge, taking a few gliding steps towards the center, their movement more fluid and less weighted than A's.
+
+**0:30 - 0:45**
+*   **Dancer A** reaches the center and sinks into a low crouch, their head still bowed.
+*   **Dancer B** arrives near A, but not touching. They circle A slowly, their movements a softer, more fluid version of A's earlier unfurling.
+*   **Dancer C** stops a few feet away from A and B, observing their interaction. They perform a series of small, sharp isolations in their torso, a subtle contrast to the flowing movements of A and B.
+
+**0:45 - 0:55**
+*   **Dancer D** **enters** from upstage left, moving with a more direct, almost urgent quality. They cross the stage diagonally towards downstage right, their arms carving through the air.
+*   **Dancer A** remains in their crouch, their head lifting slightly to acknowledge D's entrance.
+*   **Dancer B** pauses their circling and turns to face D, their body held in a more alert posture.
+*   **Dancer C** shifts their focus from A and B to D, their isolations becoming more pronounced.
+
+**0:55 - 1:05**
+*   **Dancer D** reaches downstage right and performs a sharp, percussive sequence of jumps and turns, their energy filling that corner of the stage.
+*   **Dancer A** slowly rises and takes a few steps towards D, their movement still grounded but with a sense of curiosity.
+*   **Dancer B** moves to meet A, their paths converging. They don't touch, but their proximity creates a palpable tension.
+*   **Dancer C** moves from their position, weaving through the space between A and D, their movement now more expansive, reaching towards the wings.
+
+**1:05 - 1:15**
+*   **Dancer D** stops their energetic movement and extends a hand towards Dancer A.
+*   **Dancer A** reaches out, their fingertips brushing D's. This is a fleeting, almost accidental contact.
+*   **Dancer B** mirrors A's gesture, their hand reaching out towards D as well, but their fingers don't connect.
+*   **Dancer C** performs a sweeping arm gesture that encompasses the entire stage, their gaze sweeping across all three dancers.
+
+**1:15 - 1:25**
+*   **Dancer D** pulls their hand back and turns, moving with a more subdued energy towards upstage right.
+*   **Dancer A** slowly retracts their hand and sinks back into a low plié, their gaze returning to the floor.
+*   **Dancer B** mirrors A's retraction and plié, their movements now more aligned with A's stillness.
+*   **Dancer C** moves towards the center, then pivots and begins to walk slowly towards upstage left, their back to the audience.
+
+**1:25 - 1:30**
+*   **Dancer D** **exits** upstage right.
+*   **Dancer C** **exits** upstage left.
+*   **Dancer A** remains in their plié, their breath visible.
+*   **Dancer B** remains in their plié, their body a subtle echo of A's stillness.
+
+**(Music fades out.)**

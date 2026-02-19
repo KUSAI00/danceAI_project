@@ -1,0 +1,9 @@
+{
+  "valid": false,
+  "violations": [
+    {
+      "type": "implicit_enter",
+      "dancer": "Dancer D"
+    }
+  ]
+}

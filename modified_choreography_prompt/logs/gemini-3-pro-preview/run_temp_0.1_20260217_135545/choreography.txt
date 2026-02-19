@@ -1,0 +1,76 @@
+Here is the design for the choreography piece titled **"Static & Signal."**
+
+### I. Meta-Analysis & Setup
+
+**1. Dance Style:**
+**Contemporary / Floorwork Fusion.** The movement quality focuses on gravity, release technique, fluid spinal articulations contrasted with sharp, staccato interruptions.
+
+**2. Mood & Narrative Arc:**
+*   **Mood:** Atmospheric, tension-filled, magnetic, and eventually fractured.
+*   **Narrative:** The piece explores the relationship between a Signal and its Echo. Initially, two entities exist in harmony, but a third force introduces "static," disrupting the communication and forcing a separation.
+
+**3. Dancers & Roles (3 Dancers):**
+*   **Dancer A (The Signal):** Grounded, heavy, initiates movement. The anchor of the piece.
+*   **Dancer B (The Echo):** Lighter, reactive. Mirrors Dancer A but with a slight delay or spatial distortion.
+*   **Dancer C (The Static):** Fast, erratic, sharp. Cuts through space linearly, disrupting the curves of A and B.
+
+**4. Spatial Strategy:**
+*   **Diagonal Tension:** Starts with A and B at opposite diagonal corners (Downstage Left vs. Upstage Right).
+*   **Convergence:** The "Signal" and "Echo" meet at Center Stage.
+*   **Disruption:** "Static" cuts through the Center Line (Upstage to Downstage).
+*   **Dissolution:** The piece ends with dancers scattered to the periphery, leaving the center empty.
+
+---
+
+### II. Choreography Script: "Static & Signal"
+
+**Total Duration:** 0:00 – 1:15 (75 Seconds)
+
+#### Section 1: The Transmission (0:00 – 0:20)
+*Focus: Establishing the connection across distance.*
+
+*   **0:00 [Start]:** Stage is empty. Silence.
+*   **0:02 [Entry]:** **Dancer A** enters **Downstage Left (DSL)**, walking slowly backward into the light. **Dancer B** enters **Upstage Right (USR)**, crawling low to the ground, moving forward.
+*   **0:05 – 0:10:** **Dancer A** stops DSL. Performs a deep, slow contraction, curving the spine over the legs, arms hanging heavy.
+    *   *Simultaneously,* **Dancer B** (USR) rises from the floor to a standing position, mimicking the contraction but arching backward (the inverse of A).
+*   **0:10 – 0:15:** **Dancer A** performs a floor sweep (right leg sweeps around, pulling the body to the floor).
+    *   **Dancer B** waits 1 second, then performs a high rond de jambe (leg circle in the air), mirroring the circular motion of A’s floor sweep.
+*   **0:15 – 0:20:** Both dancers lock eyes across the diagonal. They run toward **Center Stage (CS)**.
+    *   *Movement:* A run that involves a "slide-recover" rhythm (step, step, slide low, recover up).
+
+#### Section 2: The Synchronization (0:20 – 0:40)
+*Focus: Fluid partnering and unison.*
+
+*   **0:20 – 0:25:** A and B meet at **Center Stage**. They do not touch yet. They orbit each other closely.
+    *   **Dancer A** reaches a hand out; **Dancer B** dodges it smoothly, rolling over A’s back (weight sharing).
+*   **0:25 – 0:32:** Unison Phrase (The Signal is clear).
+    *   Both face **Downstage**.
+    *   Deep plié in second position, arms shoot up in a V-shape.
+    *   Collapse the torso forward, roll up through the spine.
+    *   Chassé to the right, suspend in a side-tilt (arms horizontal like a plane), fall into a floor roll.
+*   **0:32 – 0:40:** **Dancer A** lifts **Dancer B** (simple lift: B jumps, A catches B at the waist, spins once).
+    *   As A sets B down, they end in a close embrace, foreheads touching.
+
+#### Section 3: The Interference (0:40 – 1:00)
+*Focus: Disruption, speed, and chaos.*
+
+*   **0:40 [Entry]:** **Dancer C** bursts onto stage from **Upstage Center (USC)**.
+    *   *Movement:* A series of sharp, low barrel turns (turning jumps in the air with bent knees) traveling straight down the center line toward A and B.
+*   **0:43:** **Dancer C** "slices" between A and B with a sharp arm movement.
+    *   **Reaction:** A and B are physically pushed apart by the momentum. A stumbles toward **Stage Right**. B stumbles toward **Stage Left**.
+*   **0:45 – 0:55:** The Trio Interaction (Chaos).
+    *   **Dancer C** performs a solo of erratic energy in the center: sharp isolations (shoulder twitches, head snaps) followed by a grand jeté toward A.
+    *   **Dancer A** tries to reach B, but **Dancer C** blocks the path with a high leg extension.
+    *   **Dancer B** spins rapidly in place (Stage Left), seemingly disoriented, arms flailing slightly.
+*   **0:55 – 1:00:** **Dancer C** runs to **Dancer A**, grabs A’s shoulder, and spins them to face Upstage. C immediately runs to **Dancer B** and pushes them to the floor.
+
+#### Section 4: Signal Lost (1:00 – 1:15)
+*Focus: Isolation and Exit.*
+
+*   **1:00 – 1:05:** **Dancer C** stands tall at **Center Stage**, looking dominant, then suddenly collapses into a crouch, looking at the floor.
+*   **1:05 [Exit]:** **Dancer C** rolls backward rapidly and exits **Upstage Center (USC)**, disappearing into the dark.
+*   **1:05 – 1:10:** **Dancer A** (Stage Right) and **Dancer B** (Stage Left, on floor) look at each other across the gap. The distance feels greater than at the start.
+*   **1:10 – 1:15:**
+    *   **Dancer B** slowly stands up and walks backward, exiting **Downstage Left (DSL)**—fading away.
+    *   **Dancer A** remains on stage, **Stage Right**. A reaches one hand out toward where B was, holds the pose for 2 seconds.
+*   **1:15 [End]:** **Dancer A** drops the hand sharply to the side. Blackout.

@@ -1,0 +1,59 @@
+{
+  "valid": false,
+  "violations": [
+    {
+      "type": "collision",
+      "time": 51,
+      "position": [
+        12,
+        16
+      ],
+      "dancers": [
+        "D1",
+        "D3"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 57,
+      "position": [
+        12,
+        10
+      ],
+      "dancers": [
+        "D1",
+        "D3"
+      ]
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D1",
+      "time": 27,
+      "distance": 5
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D1",
+      "time": 28,
+      "distance": 6
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D2",
+      "time": 27,
+      "distance": 5
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D3",
+      "time": 27,
+      "distance": 5
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D3",
+      "time": 28,
+      "distance": 6
+    }
+  ]
+}

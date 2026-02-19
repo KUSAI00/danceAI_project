@@ -1,0 +1,29 @@
+{
+  "valid": false,
+  "violations": [
+    {
+      "type": "speed_violation",
+      "dancer": "Dancer C",
+      "time": 38,
+      "distance": 5
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "Dancer C",
+      "time": 39,
+      "distance": 5
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "Dancer C",
+      "time": 41,
+      "distance": 5
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "Dancer C",
+      "time": 43,
+      "distance": 5
+    }
+  ]
+}

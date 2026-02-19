@@ -1,0 +1,449 @@
+{
+  "dancers": [
+    "Dancer A",
+    "Dancer B",
+    "Dancer C"
+  ],
+  "duration": 76.96,
+  "events": [
+    {
+      "id": 1,
+      "dancer": "Dancer A",
+      "action": "enter",
+      "start": 0.0,
+      "end": 0.0,
+      "from": {
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 2,
+      "dancer": "Dancer A",
+      "action": "slow, weighted descent into floor work; spirals inward, body contracting; movements contained within USL quadrant",
+      "start": 0.0,
+      "end": 15.0,
+      "from": {
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 3,
+      "dancer": "Dancer B",
+      "action": "enter",
+      "start": 3.0,
+      "end": 3.0,
+      "from": {
+        "x": 24,
+        "y": 24
+      },
+      "to": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    {
+      "id": 4,
+      "dancer": "Dancer B",
+      "action": "sharp, angular, quick movements; isolated gestures; agitated self-containment within DSR quadrant",
+      "start": 3.0,
+      "end": 15.0,
+      "from": {
+        "x": 24,
+        "y": 24
+      },
+      "to": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    {
+      "id": 5,
+      "dancer": "Dancer C",
+      "action": "enter",
+      "start": 8.0,
+      "end": 8.0,
+      "from": {
+        "x": 24,
+        "y": 0
+      },
+      "to": {
+        "x": 24,
+        "y": 0
+      }
+    },
+    {
+      "id": 6,
+      "dancer": "Dancer C",
+      "action": "stand statuesquely, arms held low and open, subtle weight shift and sway, gaze sweeps stage",
+      "start": 8.0,
+      "end": 15.0,
+      "from": {
+        "x": 24,
+        "y": 0
+      },
+      "to": {
+        "x": 24,
+        "y": 0
+      }
+    },
+    {
+      "id": 7,
+      "dancer": "Dancer A",
+      "action": "slowly unfurl from contracted position, arm extends tentatively towards CL, torso follows, rise to standing, gaze lifts scanning stage",
+      "start": 15.0,
+      "end": 30.0,
+      "from": {
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "x": 0,
+        "y": 10
+      }
+    },
+    {
+      "id": 8,
+      "dancer": "Dancer B",
+      "action": "movements soften, trace path towards CR with sustained reaches and retreats",
+      "start": 15.0,
+      "end": 30.0,
+      "from": {
+        "x": 24,
+        "y": 24
+      },
+      "to": {
+        "x": 24,
+        "y": 12
+      }
+    },
+    {
+      "id": 9,
+      "dancer": "Dancer C",
+      "action": "take single, deliberate step from USR towards USC, one arm extends slowly, then retracts",
+      "start": 15.0,
+      "end": 23.0,
+      "from": {
+        "x": 24,
+        "y": 0
+      },
+      "to": {
+        "x": 12,
+        "y": 0
+      }
+    },
+    {
+      "id": 10,
+      "dancer": "Dancer C",
+      "action": "maintain poised, observational stance at USC",
+      "start": 23.0,
+      "end": 30.0,
+      "from": {
+        "x": 12,
+        "y": 0
+      },
+      "to": {
+        "x": 12,
+        "y": 0
+      }
+    },
+    {
+      "id": 11,
+      "dancer": "Dancer A",
+      "action": "converge towards center, extend hand to B",
+      "start": 30.0,
+      "end": 35.0,
+      "from": {
+        "x": 0,
+        "y": 10
+      },
+      "to": {
+        "x": 11,
+        "y": 12
+      },
+      "partner": "Dancer B"
+    },
+    {
+      "id": 12,
+      "dancer": "Dancer B",
+      "action": "converge towards center, hesitantly place hand into A's",
+      "start": 30.0,
+      "end": 35.0,
+      "from": {
+        "x": 24,
+        "y": 12
+      },
+      "to": {
+        "x": 13,
+        "y": 12
+      },
+      "partner": "Dancer A"
+    },
+    {
+      "id": 13,
+      "dancer": "Dancer C",
+      "action": "maintain poised, observational stance at USC",
+      "start": 30.0,
+      "end": 38.0,
+      "from": {
+        "x": 12,
+        "y": 0
+      },
+      "to": {
+        "x": 12,
+        "y": 0
+      }
+    },
+    {
+      "id": 14,
+      "dancer": "Dancer A",
+      "action": "shared weight shift with B, low supported lift (A cradles B's torso), momentary pause, foreheads gently touching",
+      "start": 35.0,
+      "end": 49.96,
+      "from": {
+        "x": 11,
+        "y": 12
+      },
+      "to": {
+        "x": 11,
+        "y": 12
+      },
+      "partner": "Dancer B"
+    },
+    {
+      "id": 15,
+      "dancer": "Dancer B",
+      "action": "shared weight shift with A, low supported lift (A cradles B's torso), extends arm overhead, momentary pause, foreheads gently touching",
+      "start": 35.0,
+      "end": 49.96,
+      "from": {
+        "x": 13,
+        "y": 12
+      },
+      "to": {
+        "x": 13,
+        "y": 12
+      },
+      "partner": "Dancer A"
+    },
+    {
+      "id": 16,
+      "dancer": "Dancer C",
+      "action": "slow, deep contraction of torso, head bowing, gradual release and expansion, arms opening wide",
+      "start": 38.0,
+      "end": 45.0,
+      "from": {
+        "x": 12,
+        "y": 0
+      },
+      "to": {
+        "x": 12,
+        "y": 0
+      }
+    },
+    {
+      "id": 17,
+      "dancer": "Dancer C",
+      "action": "slow, deliberate walk from USC towards DSL, path subtly cuts through the space between A and B, quiet disruption",
+      "start": 45.0,
+      "end": 57.0,
+      "from": {
+        "x": 12,
+        "y": 0
+      },
+      "to": {
+        "x": 0,
+        "y": 24
+      }
+    },
+    {
+      "id": 18,
+      "dancer": "Dancer A",
+      "action": "head turns slowly to follow C's path, breaking eye contact with B; pulls away slightly from B; drifts towards DSL with heavy, regretful quality",
+      "start": 49.96,
+      "end": 54.2,
+      "from": {
+        "x": 11,
+        "y": 12
+      },
+      "to": {
+        "x": 1,
+        "y": 24
+      }
+    },
+    {
+      "id": 19,
+      "dancer": "Dancer B",
+      "action": "senses shift, pulls away slightly from A, mirroring C's subtle influence; drifts towards USR with sense of lost focus",
+      "start": 49.96,
+      "end": 54.2,
+      "from": {
+        "x": 13,
+        "y": 12
+      },
+      "to": {
+        "x": 24,
+        "y": 0
+      }
+    },
+    {
+      "id": 20,
+      "dancer": "Dancer C",
+      "action": "pause briefly at DSL, turn head to cast lingering, ambiguous gaze back towards A and B",
+      "start": 57.0,
+      "end": 57.0,
+      "from": {
+        "x": 0,
+        "y": 24
+      },
+      "to": {
+        "x": 0,
+        "y": 24
+      }
+    },
+    {
+      "id": 21,
+      "dancer": "Dancer C",
+      "action": "exit",
+      "start": 57.0,
+      "end": 57.0,
+      "from": {
+        "x": 0,
+        "y": 24
+      },
+      "to": {
+        "x": 0,
+        "y": 24
+      }
+    },
+    {
+      "id": 22,
+      "dancer": "Dancer A",
+      "action": "introspective movements at DSL, facing away from B",
+      "start": 54.2,
+      "end": 61.96,
+      "from": {
+        "x": 1,
+        "y": 24
+      },
+      "to": {
+        "x": 1,
+        "y": 24
+      }
+    },
+    {
+      "id": 23,
+      "dancer": "Dancer B",
+      "action": "quick, fragmented gestures, trying to reassemble a memory or grasp something intangible",
+      "start": 54.2,
+      "end": 66.96,
+      "from": {
+        "x": 24,
+        "y": 0
+      },
+      "to": {
+        "x": 24,
+        "y": 0
+      }
+    },
+    {
+      "id": 24,
+      "dancer": "Dancer A",
+      "action": "slow, weighted collapse to floor, gradual, almost painful rise; hand reaches out tentatively, retracts, presses against chest",
+      "start": 61.96,
+      "end": 66.96,
+      "from": {
+        "x": 1,
+        "y": 24
+      },
+      "to": {
+        "x": 1,
+        "y": 24
+      }
+    },
+    {
+      "id": 25,
+      "dancer": "Dancer A",
+      "action": "distant gaze, reflecting on the lost connection",
+      "start": 66.96,
+      "end": 73.96,
+      "from": {
+        "x": 1,
+        "y": 24
+      },
+      "to": {
+        "x": 1,
+        "y": 24
+      }
+    },
+    {
+      "id": 26,
+      "dancer": "Dancer A",
+      "action": "rise fully, take one last look towards the empty center",
+      "start": 73.96,
+      "end": 73.96,
+      "from": {
+        "x": 1,
+        "y": 24
+      },
+      "to": {
+        "x": 1,
+        "y": 24
+      }
+    },
+    {
+      "id": 27,
+      "dancer": "Dancer A",
+      "action": "exit",
+      "start": 73.96,
+      "end": 73.96,
+      "from": {
+        "x": 1,
+        "y": 24
+      },
+      "to": {
+        "x": 1,
+        "y": 24
+      }
+    },
+    {
+      "id": 28,
+      "dancer": "Dancer B",
+      "action": "slowly curls into fetal position, head buried, then gradually uncurls, stretching outwards with a sense of quiet longing; final slow, sweeping arm gesture encompassing entire stage",
+      "start": 66.96,
+      "end": 76.96,
+      "from": {
+        "x": 24,
+        "y": 0
+      },
+      "to": {
+        "x": 24,
+        "y": 0
+      }
+    },
+    {
+      "id": 29,
+      "dancer": "Dancer B",
+      "action": "exit",
+      "start": 76.96,
+      "end": 76.96,
+      "from": {
+        "x": 24,
+        "y": 0
+      },
+      "to": {
+        "x": 24,
+        "y": 0
+      }
+    }
+  ]
+}

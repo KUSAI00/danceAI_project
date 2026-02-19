@@ -1,0 +1,65 @@
+As an expert Choreography Design System, I have processed your request for a conceptually rich and spatially complex dance piece.
+
+---
+
+## Choreography Design System Output
+
+**Dance Piece Title:** "Echoes of Proximity"
+
+**1. Meta-Analysis & Setup:**
+
+*   **Dance Style:** Contemporary Dance
+*   **Mood:** Begins with a sense of stark isolation and internal struggle, transitions to tentative curiosity and a brief, fragile connection, then dissolves into a feeling of quiet disruption and lingering memory, leaving the dancers in a state of reflective solitude.
+*   **Narrative Arc:** Fragmentation → Tentative Reach → Brief Convergence → Subtle Disruption → Resonant Isolation.
+*   **Dancer Roles (3 Dancers):**
+    *   **Dancer A (The Anchor):** Grounded, often initiating or receiving, represents stability and the core emotion. Moves with weight and intention.
+    *   **Dancer B (The Seeker):** Fluid, explorative, often reaching and responding, represents curiosity and vulnerability. Moves with lightness and expansiveness.
+    *   **Dancer C (The Catalyst):** Observational, subtly influential, disrupts established patterns without aggression. Moves with controlled, almost magnetic presence.
+*   **Duration:** 75 seconds
+*   **Spatial Usage:** The choreography is designed to utilize the full stage space (upstage, downstage, left, right, center) and vary levels (floor work, standing, low lifts/supports).
+
+**2. Choreography Script:**
+
+**(Music Suggestion: Ambient, minimalist score with evolving textures, perhaps a subtle drone or sparse piano notes that shift in intensity.)**
+
+---
+
+**[00:00-00:15] Section 1: Fragmentation & Isolation**
+
+*   **00:00:** **Dancer A ENTERS** Upstage Left (USL). Begins a slow, weighted descent into floor work. Spirals inward, forearms pressing into the floor, head heavy, body contracting. Stays primarily within the USL quadrant, movements contained. Gaze is directed downward or inward.
+*   **00:03:** **Dancer B ENTERS** Downstage Right (DSR). Movements are sharp, angular, and quick. A series of isolated gestures – a flick of the wrist, a sudden head turn, a sharp lunge and recovery. Avoids eye contact with A or any specific point. Occupies the DSR quadrant, moving with a sense of agitated self-containment.
+*   **00:08:** **Dancer C ENTERS** Upstage Right (USR). Stands almost statuesquely, arms held low and open, palms facing forward. Slowly shifts weight from one foot to the other, a subtle, almost imperceptible sway. Gaze sweeps slowly across the stage, observing A and B but maintaining a detached, distant presence. Stays in the USR quadrant.
+*   **00:15:** All three dancers are in their respective quadrants, distinct in their movement quality and spatial focus.
+
+**[00:15-00:30] Section 2: Tentative Exploration & Reach**
+
+*   **00:15:** Dancer A slowly unfurls from their contracted position. An arm extends tentatively towards Center Left (CL), then the torso follows, initiating a slow rise to standing. Gaze lifts, scanning the stage, a flicker of awareness of the other dancers. Moves a step or two towards CL.
+*   **00:18:** Dancer B's movements begin to soften. The sharp angles become more fluid curves. B traces a path towards Center Right (CR) with a series of sustained reaches and retreats, like a hand testing water. Head occasionally turns towards A's general direction, then quickly averts.
+*   **00:23:** Dancer C takes a single, deliberate step forward from USR towards Upstage Center (USC). One arm extends slowly, palm open, towards the space between A and B, then retracts with equal slowness, like an unspoken thought. C maintains a poised, observational stance at USC.
+*   **00:30:** A is at CL, B is at CR, both facing generally towards center. C is at USC, observing. A sense of an invisible magnetic pull towards the center.
+
+**[00:30-00:45] Section 3: Brief Encounter & Shared Space**
+
+*   **00:30:** Dancer A and B begin to converge at Center Stage (CS). A extends a hand, palm up, towards B. B hesitantly places their hand into A's. This initiates a gentle, weighted duet.
+*   **00:33:** A and B move into a shared weight shift, leaning into each other, then a low, supported lift where A cradles B's torso as B extends an arm overhead. Their movements are synchronized, flowing, and intimate, occupying the central space. Their gaze meets briefly, then softens.
+*   **00:38:** Dancer C, at USC, performs a slow, deep contraction of the torso, head bowing, then a gradual release and expansion, arms opening wide. This movement is internal, reflecting the observed connection of A and B, but C remains physically separate, a silent witness.
+*   **00:45:** A and B are momentarily paused at CS, perhaps foreheads gently touching, a moment of fragile harmony. C is at USC, arms slowly lowering from their expansion.
+
+**[00:45-01:00] Section 4: Subtle Disruption & Retreat**
+
+*   **00:45:** Dancer C begins a slow, deliberate walk from USC towards Downstage Left (DSL). C's path subtly cuts *through* the space between A and B, without touching them. C's presence, though non-aggressive, acts as a quiet, magnetic disruption.
+*   **00:48:** As C passes, A's head turns slowly to follow C's path, breaking eye contact with B. B, sensing the shift, pulls away slightly from A, mirroring C's subtle, almost imperceptible influence. The physical connection between A and B loosens.
+*   **00:52:** A and B gently drift apart. A moves with a heavy, regretful quality towards Downstage Left (DSL), movements becoming more introspective. B moves with a sense of lost focus towards Upstage Right (USR), gestures becoming more fragmented, trying to grasp the fading connection.
+*   **00:57:** Dancer C reaches DSL, pauses briefly, turns their head to cast a lingering, ambiguous gaze back towards A and B (who are now separated), then **EXITS** DSL slowly.
+*   **01:00:** A is now at DSL, B is at USR, both facing away from each other.
+
+**[01:00-01:15] Section 5: Lingering Echoes & Re-evaluation**
+
+*   **01:00:** Dancer A performs a slow, weighted collapse to the floor at DSL, then a gradual, almost painful rise. Their hand reaches out tentatively into the empty space where B was, pauses, then retracts, pressing against their own chest. Gaze is distant, reflecting on the lost connection.
+*   **01:05:** Dancer B, at USR, performs a series of quick, fragmented gestures, as if trying to reassemble a memory or grasp something intangible. Then B slowly curls into a fetal position, head buried, before gradually uncurling, stretching outwards with a sense of quiet longing.
+*   **01:10:** A and B are now at opposite ends of the stage, their movements resonating with the impact of their brief encounter. They do not interact directly, but their separate experiences are informed by what transpired.
+*   **01:12:** Dancer A rises fully, takes one last look towards the empty center, then slowly **EXITS** Downstage Left (DSL).
+*   **01:15:** Dancer B, now standing, performs a final, slow, sweeping arm gesture that encompasses the entire stage, then slowly **EXITS** Upstage Right (USR).
+
+---
+*(End of Choreography Script)*

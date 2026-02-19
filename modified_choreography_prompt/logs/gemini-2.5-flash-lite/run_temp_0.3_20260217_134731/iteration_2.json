@@ -1,0 +1,551 @@
+{
+  "dancers": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "duration": 75.0,
+  "events": [
+    {
+      "id": 1,
+      "dancer": "A",
+      "action": "enter",
+      "start": 0.0,
+      "end": 0.0,
+      "from": {
+        "x": 12,
+        "y": 24
+      },
+      "to": {
+        "x": 12,
+        "y": 24
+      }
+    },
+    {
+      "id": 2,
+      "dancer": "A",
+      "action": "grounded plié, head bowed",
+      "start": 0.0,
+      "end": 5.0,
+      "from": {
+        "x": 12,
+        "y": 24
+      },
+      "to": {
+        "x": 12,
+        "y": 24
+      }
+    },
+    {
+      "id": 3,
+      "dancer": "A",
+      "action": "unfurl, extend arm upwards, trace slow circular path",
+      "start": 5.0,
+      "end": 10.0,
+      "from": {
+        "x": 12,
+        "y": 24
+      },
+      "to": {
+        "x": 12,
+        "y": 24
+      }
+    },
+    {
+      "id": 4,
+      "dancer": "A",
+      "action": "slowly turn head to look towards audience",
+      "start": 10.0,
+      "end": 15.0,
+      "from": {
+        "x": 12,
+        "y": 24
+      },
+      "to": {
+        "x": 12,
+        "y": 24
+      }
+    },
+    {
+      "id": 5,
+      "dancer": "B",
+      "action": "enter",
+      "start": 10.0,
+      "end": 10.0,
+      "from": {
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 6,
+      "dancer": "B",
+      "action": "move with soft, gliding quality, low crouch, observe Dancer A from distance",
+      "start": 10.0,
+      "end": 15.0,
+      "from": {
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "x": 2,
+        "y": 2
+      }
+    },
+    {
+      "id": 7,
+      "dancer": "B",
+      "action": "rise, movements mirroring fluidity of Dancer A's unfurling with delay, tentative steps towards center stage",
+      "start": 15.0,
+      "end": 20.0,
+      "from": {
+        "x": 2,
+        "y": 2
+      },
+      "to": {
+        "x": 6,
+        "y": 6
+      }
+    },
+    {
+      "id": 8,
+      "dancer": "A",
+      "action": "extend hand, palm open, gesture of offering",
+      "start": 20.0,
+      "end": 25.0,
+      "from": {
+        "x": 12,
+        "y": 24
+      },
+      "to": {
+        "x": 12,
+        "y": 24
+      }
+    },
+    {
+      "id": 9,
+      "dancer": "B",
+      "action": "respond by extending own hand, fingers reaching out, stopping short of touching Dancer A, small circular path around Dancer A",
+      "start": 25.0,
+      "end": 30.0,
+      "from": {
+        "x": 6,
+        "y": 6
+      },
+      "to": {
+        "x": 10,
+        "y": 10
+      }
+    },
+    {
+      "id": 10,
+      "dancer": "C",
+      "action": "enter",
+      "start": 30.0,
+      "end": 30.0,
+      "from": {
+        "x": 24,
+        "y": 24
+      },
+      "to": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    {
+      "id": 11,
+      "dancer": "C",
+      "action": "move with sharper, percussive quality, diagonally across stage, passing through space between A and B",
+      "start": 30.0,
+      "end": 34.0,
+      "from": {
+        "x": 24,
+        "y": 24
+      },
+      "to": {
+        "x": 16,
+        "y": 12
+      }
+    },
+    {
+      "id": 12,
+      "dancer": "B",
+      "action": "retract hand, gaze following Dancer C's path",
+      "start": 35.0,
+      "end": 35.0,
+      "from": {
+        "x": 10,
+        "y": 10
+      },
+      "to": {
+        "x": 10,
+        "y": 10
+      }
+    },
+    {
+      "id": 13,
+      "dancer": "A",
+      "action": "hand slowly lowering",
+      "start": 35.0,
+      "end": 35.0,
+      "from": {
+        "x": 12,
+        "y": 24
+      },
+      "to": {
+        "x": 12,
+        "y": 24
+      }
+    },
+    {
+      "id": 14,
+      "dancer": "C",
+      "action": "exit",
+      "start": 35.0,
+      "end": 35.0,
+      "from": {
+        "x": 16,
+        "y": 12
+      },
+      "to": {
+        "x": 16,
+        "y": 24
+      }
+    },
+    {
+      "id": 15,
+      "dancer": "A",
+      "action": "step towards B",
+      "start": 38.0,
+      "end": 40.0,
+      "from": {
+        "x": 12,
+        "y": 24
+      },
+      "to": {
+        "x": 14,
+        "y": 22
+      }
+    },
+    {
+      "id": 16,
+      "dancer": "B",
+      "action": "mirror step, pathways diverge slightly, move in near-synchronous duet, bodies almost touching",
+      "start": 38.0,
+      "end": 45.0,
+      "from": {
+        "x": 10,
+        "y": 10
+      },
+      "to": {
+        "x": 16,
+        "y": 8
+      }
+    },
+    {
+      "id": 17,
+      "dancer": "D",
+      "action": "enter",
+      "start": 45.0,
+      "end": 45.0,
+      "from": {
+        "x": 24,
+        "y": 0
+      },
+      "to": {
+        "x": 24,
+        "y": 0
+      }
+    },
+    {
+      "id": 18,
+      "dancer": "D",
+      "action": "move very slowly and deliberately, drift across upstage area",
+      "start": 45.0,
+      "end": 50.0,
+      "from": {
+        "x": 24,
+        "y": 0
+      },
+      "to": {
+        "x": 12,
+        "y": 2
+      }
+    },
+    {
+      "id": 19,
+      "dancer": "C",
+      "action": "re-enter",
+      "start": 50.0,
+      "end": 50.0,
+      "from": {
+        "x": 16,
+        "y": 24
+      },
+      "to": {
+        "x": 16,
+        "y": 24
+      }
+    },
+    {
+      "id": 20,
+      "dancer": "C",
+      "action": "move quickly and cut across intended path of A and B, forcing them to break connection",
+      "start": 50.0,
+      "end": 54.0,
+      "from": {
+        "x": 16,
+        "y": 24
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": 21,
+      "dancer": "A",
+      "action": "separated, body angled away from B, frustration and disappointment",
+      "start": 55.0,
+      "end": 55.0,
+      "from": {
+        "x": 14,
+        "y": 22
+      },
+      "to": {
+        "x": 14,
+        "y": 22
+      }
+    },
+    {
+      "id": 22,
+      "dancer": "B",
+      "action": "separated, body angled away from A, frustration and disappointment",
+      "start": 55.0,
+      "end": 55.0,
+      "from": {
+        "x": 16,
+        "y": 8
+      },
+      "to": {
+        "x": 16,
+        "y": 8
+      }
+    },
+    {
+      "id": 23,
+      "dancer": "C",
+      "action": "exit",
+      "start": 55.0,
+      "end": 55.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 24
+      }
+    },
+    {
+      "id": 24,
+      "dancer": "D",
+      "action": "reach downstage right corner and slowly fade from view, exit",
+      "start": 58.0,
+      "end": 58.0,
+      "from": {
+        "x": 12,
+        "y": 2
+      },
+      "to": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    {
+      "id": 25,
+      "dancer": "A",
+      "action": "turn towards B, acknowledge presence with soft nod",
+      "start": 58.0,
+      "end": 60.0,
+      "from": {
+        "x": 14,
+        "y": 22
+      },
+      "to": {
+        "x": 14,
+        "y": 22
+      }
+    },
+    {
+      "id": 26,
+      "dancer": "B",
+      "action": "turn towards A, acknowledge presence with soft nod",
+      "start": 58.0,
+      "end": 60.0,
+      "from": {
+        "x": 16,
+        "y": 8
+      },
+      "to": {
+        "x": 16,
+        "y": 8
+      }
+    },
+    {
+      "id": 27,
+      "dancer": "A",
+      "action": "begin to move away towards downstage left corner",
+      "start": 60.0,
+      "end": 65.0,
+      "from": {
+        "x": 14,
+        "y": 22
+      },
+      "to": {
+        "x": 0,
+        "y": 24
+      }
+    },
+    {
+      "id": 28,
+      "dancer": "B",
+      "action": "remain center stage, then slowly walk towards downstage right corner",
+      "start": 60.0,
+      "end": 65.0,
+      "from": {
+        "x": 16,
+        "y": 8
+      },
+      "to": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    {
+      "id": 29,
+      "dancer": "A",
+      "action": "reach downstage left corner and turn to face audience, posture relaxed and accepting",
+      "start": 65.0,
+      "end": 70.0,
+      "from": {
+        "x": 0,
+        "y": 24
+      },
+      "to": {
+        "x": 0,
+        "y": 24
+      }
+    },
+    {
+      "id": 30,
+      "dancer": "B",
+      "action": "reach downstage right corner and do the same",
+      "start": 65.0,
+      "end": 70.0,
+      "from": {
+        "x": 24,
+        "y": 24
+      },
+      "to": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    {
+      "id": 31,
+      "dancer": "A",
+      "action": "hold final position, gaze soft and introspective",
+      "start": 70.0,
+      "end": 75.0,
+      "from": {
+        "x": 0,
+        "y": 24
+      },
+      "to": {
+        "x": 0,
+        "y": 24
+      }
+    },
+    {
+      "id": 32,
+      "dancer": "B",
+      "action": "hold final position, gaze soft and introspective",
+      "start": 70.0,
+      "end": 75.0,
+      "from": {
+        "x": 24,
+        "y": 24
+      },
+      "to": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    {
+      "id": 33,
+      "dancer": "A",
+      "action": "exit",
+      "start": 75.0,
+      "end": 75.0,
+      "from": {
+        "x": 0,
+        "y": 24
+      },
+      "to": {
+        "x": 0,
+        "y": 24
+      }
+    },
+    {
+      "id": 34,
+      "dancer": "B",
+      "action": "exit",
+      "start": 75.0,
+      "end": 75.0,
+      "from": {
+        "x": 24,
+        "y": 24
+      },
+      "to": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    {
+      "id": 35,
+      "dancer": "C",
+      "action": "exit",
+      "start": 55.0,
+      "end": 55.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 24
+      }
+    },
+    {
+      "id": 36,
+      "dancer": "D",
+      "action": "exit",
+      "start": 58.0,
+      "end": 58.0,
+      "from": {
+        "x": 12,
+        "y": 2
+      },
+      "to": {
+        "x": 24,
+        "y": 24
+      }
+    }
+  ]
+}

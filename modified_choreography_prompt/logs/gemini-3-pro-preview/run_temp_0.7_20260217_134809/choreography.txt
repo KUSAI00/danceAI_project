@@ -1,0 +1,76 @@
+Here is the choreography design for the piece titled **"Orbital Decay."**
+
+### Part 1: Meta-Analysis & Setup
+
+**Dance Style:**
+Contemporary (Floorwork & Release Technique fusion). The movement quality emphasizes gravity, momentum, and fluidity, alternating between "gooey" connectivity and sharp, angular disruption.
+
+**Mood & Narrative Arc:**
+*   **Mood:** Magnetic, tense, inevitable, slightly melancholic.
+*   **Narrative:** A "Binary Star" system is disrupted by a rogue element. Two dancers exist in a symbiotic loop until a third force shatters their gravity, forcing a chaotic reconfiguration before leaving the original pair changed and distant.
+
+**Dancer Roles (3 Dancers):**
+*   **Dancer A & Dancer B (The Binary):** They move as one organism. Their focus is almost exclusively on each other or the negative space between them. They represent stability and codependence.
+*   **Dancer C (The Comet/Disruptor):** High velocity, sharp focus, covers large distances. C represents chaos and entropy.
+
+**Spatial Strategy:**
+*   **A & B:** Primarily occupy Center Stage (CS) and Downstage Center (DSC), acting as the anchor.
+*   **C:** Uses the periphery and sharp diagonals (Upstage Left to Downstage Right) to "slice" through the space.
+
+---
+
+### Part 2: Choreography Script (0:00 – 1:30)
+
+**Stage Legend:**
+*   **US:** Upstage (Back)
+*   **DS:** Downstage (Front)
+*   **SL:** Stage Left (Audience Right)
+*   **SR:** Stage Right (Audience Left)
+*   **CS:** Center Stage
+
+#### Section 1: The Event Horizon (0:00 – 0:20)
+*   **0:00 – 0:10:**
+    *   **Start:** **Dancer A** and **Dancer B** are at **CS**. They stand back-to-back, touching from shoulder blades to hips. **Dancer C** is **OFF STAGE** (Upstage Left).
+    *   **Movement:** A and B perform a slow, controlled spinal roll-down in unison. As they reach a squat, A spirals right and B spirals left, maintaining contact with their lower backs. They slide to the floor, legs extending outward into a wide V-shape, creating a singular shape on the floor.
+*   **0:10 – 0:20:**
+    *   **Movement:** A and B engage in floorwork. A rolls over B’s back; B responds by contracting and sliding legs through to a seated position. They grasp forearms.
+    *   **Dynamic:** Heavy, weighted, resisting gravity. They pull against each other to stand up, ending nose-to-nose at **CS**, breathing heavily.
+
+#### Section 2: The Impact (0:20 – 0:45)
+*   **0:20 – 0:25:**
+    *   **ENTER:** **Dancer C** explodes from **USL**, sprinting in a low, predatory crouch toward **CS**.
+    *   **Action:** C performs a sliding floor sweep (baseball slide style) directly between A and B's legs.
+    *   **Reaction:** A and B break contact immediately. A stumbles backward to **SR**; B stumbles backward to **SL**. The bond is broken.
+*   **0:25 – 0:35:**
+    *   **Movement:** **Dancer C** rises instantly at **CS** and performs a sharp, angular solo (rapid arm gestures, jagged contractions).
+    *   **Periphery:** A and B circle the perimeter of the stage cautiously (A moves clockwise towards USR, B moves counter-clockwise towards USL), eyes locked on C.
+*   **0:35 – 0:45:**
+    *   **Triangulation:** C lunges deep toward A (at USR). A dodges by rolling to the floor. C immediately pivots and performs a *grand jeté* toward B (at USL). B ducks under the jump.
+    *   **Result:** The dancers end in a wide triangle: A (USR), B (USL), C (DSC).
+
+#### Section 3: The Chaos Orbit (0:45 – 1:10)
+*   **0:45 – 0:55:**
+    *   **Convergence:** All three dancers run toward **CS**.
+    *   **Contact Improv:** They collide into a weight-sharing knot.
+    *   **The Lift:** A and B instinctively clasp hands, creating a "seat." C steps onto their thigh/hands and is lifted high into an arabesque.
+    *   **The Break:** Instead of holding, C collapses the lift intentionally, sliding down the front of A and B, pushing them apart violently.
+*   **0:55 – 1:05:**
+    *   **Rapid Canon:**
+        *   C performs a chaotic turn sequence traveling **DS** to **US**.
+        *   A chases C, attempting to grab C’s arm, but misses.
+        *   B chases A, attempting to grab A’s waist.
+    *   **Positions:** They end up in a diagonal line from USR to DSL (Order: B, A, C).
+*   **1:05 – 1:10:**
+    *   **Domino Effect:** B pushes A forward. A stumbles into C. C utilizes the momentum to perform a barrel roll on the floor, ending at **DSL**.
+
+#### Section 4: Decay & Resolution (1:10 – 1:30)
+*   **1:10 – 1:15:**
+    *   **EXIT:** **Dancer C** stands up abruptly, looks at the audience once, and sprints **OFF STAGE** via **Downstage Left**.
+    *   **Remaining:** A and B are left alone on stage. A is at **CS**, B is at **USR**.
+*   **1:15 – 1:25:**
+    *   **Movement:** The silence returns. A reaches a hand out toward where B was at the beginning of the piece. B walks slowly, limping slightly, toward A.
+    *   **Attempt:** They try to recreate the opening pose (back-to-back). They stand CS, back-to-back.
+*   **1:25 – 1:30:**
+    *   **Final Image:** Instead of touching, they stand with a visible 6-inch gap between their backs. They are close, but no longer connected.
+    *   **Action:** Both dancers slowly look up toward the ceiling lights.
+    *   **Fade to Black.**

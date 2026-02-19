@@ -1,0 +1,654 @@
+{
+  "dancers": [
+    "Dancer A",
+    "Dancer B",
+    "Dancer C"
+  ],
+  "duration": 82.261,
+  "events": [
+    {
+      "id": "event_0",
+      "dancer": "Dancer A",
+      "action": "enter",
+      "start": 0.0,
+      "end": 0.257,
+      "from": {
+        "x": 25,
+        "y": 0
+      },
+      "to": {
+        "x": 24,
+        "y": 0
+      }
+    },
+    {
+      "id": "event_1",
+      "dancer": "Dancer A",
+      "action": "walk (slow)",
+      "start": 0.257,
+      "end": 3.701,
+      "from": {
+        "x": 24,
+        "y": 0
+      },
+      "to": {
+        "x": 18,
+        "y": 12
+      }
+    },
+    {
+      "id": "event_2",
+      "dancer": "Dancer A",
+      "action": "kneel (internal weight)",
+      "start": 3.701,
+      "end": 5.236,
+      "from": {
+        "x": 18,
+        "y": 12
+      },
+      "to": {
+        "x": 18,
+        "y": 12
+      }
+    },
+    {
+      "id": "event_3",
+      "dancer": "Dancer A",
+      "action": "squat (articulating spine)",
+      "start": 5.236,
+      "end": 15.236,
+      "from": {
+        "x": 18,
+        "y": 12
+      },
+      "to": {
+        "x": 18,
+        "y": 12
+      }
+    },
+    {
+      "id": "event_4",
+      "dancer": "Dancer B",
+      "action": "enter",
+      "start": 7.0,
+      "end": 7.257,
+      "from": {
+        "x": -1,
+        "y": 24
+      },
+      "to": {
+        "x": 0,
+        "y": 24
+      }
+    },
+    {
+      "id": "event_5",
+      "dancer": "Dancer B",
+      "action": "balance (quivering)",
+      "start": 7.257,
+      "end": 17.006,
+      "from": {
+        "x": 0,
+        "y": 24
+      },
+      "to": {
+        "x": 0,
+        "y": 24
+      }
+    },
+    {
+      "id": "event_6",
+      "dancer": "Dancer A",
+      "action": "roll to supine",
+      "start": 15.236,
+      "end": 17.236,
+      "from": {
+        "x": 18,
+        "y": 12
+      },
+      "to": {
+        "x": 18,
+        "y": 12
+      }
+    },
+    {
+      "id": "event_8",
+      "dancer": "Dancer B",
+      "action": "collapse & curl",
+      "start": 17.006,
+      "end": 20.006,
+      "from": {
+        "x": 0,
+        "y": 24
+      },
+      "to": {
+        "x": 0,
+        "y": 24
+      }
+    },
+    {
+      "id": "event_7",
+      "dancer": "Dancer A",
+      "action": "stretch (arm & leg)",
+      "start": 17.236,
+      "end": 25.236,
+      "from": {
+        "x": 18,
+        "y": 12
+      },
+      "to": {
+        "x": 18,
+        "y": 12
+      }
+    },
+    {
+      "id": "event_10",
+      "dancer": "Dancer C",
+      "action": "enter",
+      "start": 20.0,
+      "end": 20.257,
+      "from": {
+        "x": -1,
+        "y": 0
+      },
+      "to": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": "event_9",
+      "dancer": "Dancer B",
+      "action": "uncurl & tremor",
+      "start": 20.006,
+      "end": 27.006,
+      "from": {
+        "x": 0,
+        "y": 24
+      },
+      "to": {
+        "x": 0,
+        "y": 24
+      }
+    },
+    {
+      "id": "event_11",
+      "dancer": "Dancer C",
+      "action": "walk (gliding) to CSL",
+      "start": 20.257,
+      "end": 23.702,
+      "from": {
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "x": 6,
+        "y": 12
+      }
+    },
+    {
+      "id": "event_12",
+      "dancer": "Dancer C",
+      "action": "observe (gaze sweeping)",
+      "start": 23.702,
+      "end": 25.067,
+      "from": {
+        "x": 6,
+        "y": 12
+      },
+      "to": {
+        "x": 6,
+        "y": 12
+      }
+    },
+    {
+      "id": "event_13",
+      "dancer": "Dancer A",
+      "action": "lunge & scan",
+      "start": 25.236,
+      "end": 35.236,
+      "from": {
+        "x": 18,
+        "y": 12
+      },
+      "to": {
+        "x": 18,
+        "y": 12
+      }
+    },
+    {
+      "id": "event_14",
+      "dancer": "Dancer C",
+      "action": "arm movement (sifting barrier)",
+      "start": 25.067,
+      "end": 35.067,
+      "from": {
+        "x": 6,
+        "y": 12
+      },
+      "to": {
+        "x": 6,
+        "y": 12
+      }
+    },
+    {
+      "id": "event_15",
+      "dancer": "Dancer B",
+      "action": "sit & ripple spine",
+      "start": 27.006,
+      "end": 37.006,
+      "from": {
+        "x": 0,
+        "y": 24
+      },
+      "to": {
+        "x": 0,
+        "y": 24
+      }
+    },
+    {
+      "id": "event_16",
+      "dancer": "Dancer C",
+      "action": "walk to CS",
+      "start": 35.067,
+      "end": 36.622,
+      "from": {
+        "x": 6,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": "event_18",
+      "dancer": "Dancer A",
+      "action": "move (falls & recoveries)",
+      "start": 35.236,
+      "end": 45.236,
+      "from": {
+        "x": 18,
+        "y": 12
+      },
+      "to": {
+        "x": 6,
+        "y": 12
+      }
+    },
+    {
+      "id": "event_17",
+      "dancer": "Dancer C",
+      "action": "stand (offer presence)",
+      "start": 36.622,
+      "end": 40.112,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      },
+      "partner": "Dancer B"
+    },
+    {
+      "id": "event_19",
+      "dancer": "Dancer B",
+      "action": "stand & reach",
+      "start": 37.006,
+      "end": 40.006,
+      "from": {
+        "x": 0,
+        "y": 24
+      },
+      "to": {
+        "x": 0,
+        "y": 24
+      }
+    },
+    {
+      "id": "event_20",
+      "dancer": "Dancer B",
+      "action": "walk (shaky) to CSR",
+      "start": 40.006,
+      "end": 45.553,
+      "from": {
+        "x": 0,
+        "y": 24
+      },
+      "to": {
+        "x": 18,
+        "y": 12
+      }
+    },
+    {
+      "id": "event_21",
+      "dancer": "Dancer C",
+      "action": "extend hand (offer presence)",
+      "start": 40.112,
+      "end": 45.512,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      },
+      "partner": "Dancer B"
+    },
+    {
+      "id": "event_22",
+      "dancer": "Dancer A",
+      "action": "arabesque (pillar)",
+      "start": 45.236,
+      "end": 55.236,
+      "from": {
+        "x": 6,
+        "y": 12
+      },
+      "to": {
+        "x": 6,
+        "y": 12
+      }
+    },
+    {
+      "id": "event_23",
+      "dancer": "Dancer B",
+      "action": "lean (fragile contact)",
+      "start": 45.553,
+      "end": 57.133,
+      "from": {
+        "x": 18,
+        "y": 12
+      },
+      "to": {
+        "x": 18,
+        "y": 12
+      },
+      "partner": "Dancer C"
+    },
+    {
+      "id": "event_24",
+      "dancer": "Dancer C",
+      "action": "support (subtle resistance)",
+      "start": 45.512,
+      "end": 57.102,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      },
+      "partner": "Dancer B"
+    },
+    {
+      "id": "event_25",
+      "dancer": "Dancer A",
+      "action": "approach & touch B",
+      "start": 55.236,
+      "end": 56.574,
+      "from": {
+        "x": 6,
+        "y": 12
+      },
+      "to": {
+        "x": 11,
+        "y": 12
+      },
+      "partner": "Dancer B"
+    },
+    {
+      "id": "event_30",
+      "dancer": "Dancer A",
+      "action": "support (cluster)",
+      "start": 56.574,
+      "end": 65.324,
+      "from": {
+        "x": 11,
+        "y": 12
+      },
+      "to": {
+        "x": 11,
+        "y": 12
+      },
+      "partner": "Dancer B"
+    },
+    {
+      "id": "event_27",
+      "dancer": "Dancer B",
+      "action": "move to cluster",
+      "start": 57.133,
+      "end": 58.42,
+      "from": {
+        "x": 18,
+        "y": 12
+      },
+      "to": {
+        "x": 13,
+        "y": 12
+      },
+      "partner": "Dancer C"
+    },
+    {
+      "id": "event_26",
+      "dancer": "Dancer C",
+      "action": "mirror A & frame B",
+      "start": 57.102,
+      "end": 57.36,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 11
+      },
+      "partner": "Dancer B"
+    },
+    {
+      "id": "event_28",
+      "dancer": "Dancer C",
+      "action": "support (cluster)",
+      "start": 57.36,
+      "end": 65.11,
+      "from": {
+        "x": 12,
+        "y": 11
+      },
+      "to": {
+        "x": 12,
+        "y": 11
+      },
+      "partner": "Dancer A, Dancer B"
+    },
+    {
+      "id": "event_29",
+      "dancer": "Dancer B",
+      "action": "stillness (upright, vulnerable)",
+      "start": 58.42,
+      "end": 65.16,
+      "from": {
+        "x": 13,
+        "y": 12
+      },
+      "to": {
+        "x": 13,
+        "y": 12
+      },
+      "partner": "Dancer A, Dancer C"
+    },
+    {
+      "id": "event_31",
+      "dancer": "Dancer C",
+      "action": "disengage (from cluster)",
+      "start": 65.11,
+      "end": 68.11,
+      "from": {
+        "x": 12,
+        "y": 11
+      },
+      "to": {
+        "x": 12,
+        "y": 11
+      },
+      "partner": "Dancer A, Dancer B"
+    },
+    {
+      "id": "event_33",
+      "dancer": "Dancer B",
+      "action": "acknowledge A (lifting head)",
+      "start": 65.16,
+      "end": 75.16,
+      "from": {
+        "x": 13,
+        "y": 12
+      },
+      "to": {
+        "x": 13,
+        "y": 12
+      },
+      "partner": "Dancer A"
+    },
+    {
+      "id": "event_32",
+      "dancer": "Dancer A",
+      "action": "support & acknowledge B",
+      "start": 65.324,
+      "end": 72.324,
+      "from": {
+        "x": 11,
+        "y": 12
+      },
+      "to": {
+        "x": 11,
+        "y": 12
+      },
+      "partner": "Dancer B"
+    },
+    {
+      "id": "event_34",
+      "dancer": "Dancer C",
+      "action": "walk to exit point USL",
+      "start": 68.11,
+      "end": 72.203,
+      "from": {
+        "x": 12,
+        "y": 11
+      },
+      "to": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": "event_35",
+      "dancer": "Dancer C",
+      "action": "exit",
+      "start": 72.203,
+      "end": 72.46,
+      "from": {
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "x": -1,
+        "y": 0
+      }
+    },
+    {
+      "id": "event_36",
+      "dancer": "Dancer A",
+      "action": "disengage (from B)",
+      "start": 72.324,
+      "end": 73.324,
+      "from": {
+        "x": 11,
+        "y": 12
+      },
+      "to": {
+        "x": 11,
+        "y": 12
+      },
+      "partner": "Dancer B"
+    },
+    {
+      "id": "event_37",
+      "dancer": "Dancer A",
+      "action": "walk to exit point USR",
+      "start": 73.324,
+      "end": 77.868,
+      "from": {
+        "x": 11,
+        "y": 12
+      },
+      "to": {
+        "x": 24,
+        "y": 0
+      }
+    },
+    {
+      "id": "event_39",
+      "dancer": "Dancer B",
+      "action": "final reach & lower gaze",
+      "start": 75.16,
+      "end": 77.16,
+      "from": {
+        "x": 13,
+        "y": 12
+      },
+      "to": {
+        "x": 13,
+        "y": 12
+      }
+    },
+    {
+      "id": "event_38",
+      "dancer": "Dancer A",
+      "action": "exit",
+      "start": 77.868,
+      "end": 78.125,
+      "from": {
+        "x": 24,
+        "y": 0
+      },
+      "to": {
+        "x": 25,
+        "y": 0
+      }
+    },
+    {
+      "id": "event_40",
+      "dancer": "Dancer B",
+      "action": "walk to exit point DSL",
+      "start": 77.16,
+      "end": 81.693,
+      "from": {
+        "x": 13,
+        "y": 12
+      },
+      "to": {
+        "x": 0,
+        "y": 24
+      }
+    },
+    {
+      "id": "event_41",
+      "dancer": "Dancer B",
+      "action": "exit",
+      "start": 81.693,
+      "end": 81.95,
+      "from": {
+        "x": 0,
+        "y": 24
+      },
+      "to": {
+        "x": -1,
+        "y": 24
+      }
+    }
+  ]
+}

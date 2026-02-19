@@ -1,0 +1,582 @@
+{
+  "valid": false,
+  "violations": [
+    {
+      "type": "collision",
+      "time": 51,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B",
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 52,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B",
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 53,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B",
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 54,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B",
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 55,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B",
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 56,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B",
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 57,
+      "position": [
+        12,
+        11
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 57,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 58,
+      "position": [
+        12,
+        10
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 58,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 59,
+      "position": [
+        12,
+        10
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 59,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 60,
+      "position": [
+        12,
+        10
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 60,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 61,
+      "position": [
+        12,
+        10
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 61,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 62,
+      "position": [
+        12,
+        10
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 62,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 63,
+      "position": [
+        12,
+        11
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 63,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 64,
+      "position": [
+        12,
+        11
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 64,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 65,
+      "position": [
+        12,
+        11
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 65,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 66,
+      "position": [
+        12,
+        11
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 66,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 67,
+      "position": [
+        12,
+        11
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 67,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 68,
+      "position": [
+        12,
+        11
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 68,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 69,
+      "position": [
+        12,
+        11
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 69,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 70,
+      "position": [
+        12,
+        11
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 70,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 71,
+      "position": [
+        12,
+        11
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 71,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 72,
+      "position": [
+        12,
+        11
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 72,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 73,
+      "position": [
+        12,
+        11
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 73,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 74,
+      "position": [
+        12,
+        11
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 74,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 75,
+      "position": [
+        12,
+        11
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 75,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer C",
+        "Dancer D",
+        "Dancer E"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 76,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer B",
+        "Dancer E"
+      ]
+    }
+  ]
+}

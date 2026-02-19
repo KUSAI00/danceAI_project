@@ -1,0 +1,643 @@
+{
+  "dancers": [
+    "Dancer A",
+    "Dancer B",
+    "Dancer C"
+  ],
+  "duration": 75.0,
+  "events": [
+    {
+      "id": 1,
+      "dancer": "Dancer A",
+      "action": "enter",
+      "start": 0.0,
+      "end": 0.0,
+      "from": {
+        "x": 24,
+        "y": 12
+      },
+      "to": {
+        "x": 24,
+        "y": 12
+      }
+    },
+    {
+      "id": 2,
+      "dancer": "Dancer A",
+      "action": "walk",
+      "start": 0.0,
+      "end": 5.0,
+      "from": {
+        "x": 24,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": 3,
+      "dancer": "Dancer A",
+      "action": "sink to floor",
+      "start": 5.0,
+      "end": 7.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 14
+      }
+    },
+    {
+      "id": 4,
+      "dancer": "Dancer B",
+      "action": "enter",
+      "start": 5.0,
+      "end": 5.0,
+      "from": {
+        "x": 0,
+        "y": 12
+      },
+      "to": {
+        "x": 0,
+        "y": 12
+      }
+    },
+    {
+      "id": 5,
+      "dancer": "Dancer B",
+      "action": "walk",
+      "start": 5.0,
+      "end": 10.0,
+      "from": {
+        "x": 0,
+        "y": 12
+      },
+      "to": {
+        "x": 8,
+        "y": 12
+      }
+    },
+    {
+      "id": 6,
+      "dancer": "Dancer A",
+      "action": "curl into fetal position",
+      "start": 7.0,
+      "end": 10.0,
+      "from": {
+        "x": 12,
+        "y": 14
+      },
+      "to": {
+        "x": 12,
+        "y": 15
+      }
+    },
+    {
+      "id": 7,
+      "dancer": "Dancer B",
+      "action": "stop and observe",
+      "start": 10.0,
+      "end": 15.0,
+      "from": {
+        "x": 8,
+        "y": 12
+      },
+      "to": {
+        "x": 8,
+        "y": 12
+      }
+    },
+    {
+      "id": 8,
+      "dancer": "Dancer B",
+      "action": "step forward",
+      "start": 15.0,
+      "end": 16.0,
+      "from": {
+        "x": 8,
+        "y": 12
+      },
+      "to": {
+        "x": 7,
+        "y": 12
+      }
+    },
+    {
+      "id": 9,
+      "dancer": "Dancer A",
+      "action": "extend arm",
+      "start": 16.0,
+      "end": 18.0,
+      "from": {
+        "x": 12,
+        "y": 15
+      },
+      "to": {
+        "x": 11,
+        "y": 15
+      }
+    },
+    {
+      "id": 10,
+      "dancer": "Dancer B",
+      "action": "extend arm",
+      "start": 18.0,
+      "end": 20.0,
+      "from": {
+        "x": 7,
+        "y": 12
+      },
+      "to": {
+        "x": 8,
+        "y": 12
+      }
+    },
+    {
+      "id": 11,
+      "dancer": "Dancer A",
+      "action": "hold gesture",
+      "start": 18.0,
+      "end": 25.0,
+      "from": {
+        "x": 11,
+        "y": 15
+      },
+      "to": {
+        "x": 11,
+        "y": 15
+      }
+    },
+    {
+      "id": 12,
+      "dancer": "Dancer B",
+      "action": "hold gesture",
+      "start": 20.0,
+      "end": 25.0,
+      "from": {
+        "x": 8,
+        "y": 12
+      },
+      "to": {
+        "x": 8,
+        "y": 12
+      }
+    },
+    {
+      "id": 13,
+      "dancer": "Dancer C",
+      "action": "enter",
+      "start": 25.0,
+      "end": 25.0,
+      "from": {
+        "x": 24,
+        "y": 0
+      },
+      "to": {
+        "x": 24,
+        "y": 0
+      }
+    },
+    {
+      "id": 14,
+      "dancer": "Dancer C",
+      "action": "glide",
+      "start": 25.0,
+      "end": 30.0,
+      "from": {
+        "x": 24,
+        "y": 0
+      },
+      "to": {
+        "x": 10,
+        "y": 10
+      }
+    },
+    {
+      "id": 15,
+      "dancer": "Dancer A",
+      "action": "unfurl and rise to kneeling",
+      "start": 30.0,
+      "end": 35.0,
+      "from": {
+        "x": 11,
+        "y": 15
+      },
+      "to": {
+        "x": 12,
+        "y": 13
+      }
+    },
+    {
+      "id": 16,
+      "dancer": "Dancer C",
+      "action": "circle",
+      "start": 30.0,
+      "end": 35.0,
+      "from": {
+        "x": 10,
+        "y": 10
+      },
+      "to": {
+        "x": 10,
+        "y": 10
+      }
+    },
+    {
+      "id": 17,
+      "dancer": "Dancer A",
+      "action": "stand fully",
+      "start": 35.0,
+      "end": 37.0,
+      "from": {
+        "x": 12,
+        "y": 13
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": 18,
+      "dancer": "Dancer B",
+      "action": "rise",
+      "start": 35.0,
+      "end": 40.0,
+      "from": {
+        "x": 7,
+        "y": 12
+      },
+      "to": {
+        "x": 7,
+        "y": 10
+      }
+    },
+    {
+      "id": 19,
+      "dancer": "Dancer A",
+      "action": "be pulled up",
+      "start": 37.0,
+      "end": 40.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 10
+      }
+    },
+    {
+      "id": 20,
+      "dancer": "Dancer C",
+      "action": "weave",
+      "start": 35.0,
+      "end": 45.0,
+      "from": {
+        "x": 10,
+        "y": 10
+      },
+      "to": {
+        "x": 10,
+        "y": 10
+      }
+    },
+    {
+      "id": 21,
+      "dancer": "Dancer A",
+      "action": "linked turns",
+      "start": 45.0,
+      "end": 50.0,
+      "from": {
+        "x": 12,
+        "y": 10
+      },
+      "to": {
+        "x": 12,
+        "y": 10
+      },
+      "partner": "Dancer B"
+    },
+    {
+      "id": 22,
+      "dancer": "Dancer B",
+      "action": "linked turns",
+      "start": 45.0,
+      "end": 50.0,
+      "from": {
+        "x": 7,
+        "y": 10
+      },
+      "to": {
+        "x": 7,
+        "y": 10
+      },
+      "partner": "Dancer A"
+    },
+    {
+      "id": 23,
+      "dancer": "Dancer C",
+      "action": "sharp gestures",
+      "start": 45.0,
+      "end": 48.0,
+      "from": {
+        "x": 10,
+        "y": 10
+      },
+      "to": {
+        "x": 14,
+        "y": 10
+      }
+    },
+    {
+      "id": 24,
+      "dancer": "Dancer C",
+      "action": "support Dancer A",
+      "start": 48.0,
+      "end": 50.0,
+      "from": {
+        "x": 14,
+        "y": 10
+      },
+      "to": {
+        "x": 12,
+        "y": 11
+      },
+      "partner": "Dancer A"
+    },
+    {
+      "id": 25,
+      "dancer": "Dancer C",
+      "action": "move away",
+      "start": 50.0,
+      "end": 55.0,
+      "from": {
+        "x": 12,
+        "y": 11
+      },
+      "to": {
+        "x": 10,
+        "y": 10
+      }
+    },
+    {
+      "id": 26,
+      "dancer": "Dancer A",
+      "action": "lower arm",
+      "start": 55.0,
+      "end": 58.0,
+      "from": {
+        "x": 12,
+        "y": 10
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": 27,
+      "dancer": "Dancer B",
+      "action": "lower arm",
+      "start": 55.0,
+      "end": 58.0,
+      "from": {
+        "x": 7,
+        "y": 10
+      },
+      "to": {
+        "x": 7,
+        "y": 12
+      }
+    },
+    {
+      "id": 28,
+      "dancer": "Dancer A",
+      "action": "move away",
+      "start": 58.0,
+      "end": 62.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 10,
+        "y": 12
+      }
+    },
+    {
+      "id": 29,
+      "dancer": "Dancer B",
+      "action": "move away",
+      "start": 58.0,
+      "end": 62.0,
+      "from": {
+        "x": 7,
+        "y": 12
+      },
+      "to": {
+        "x": 9,
+        "y": 12
+      }
+    },
+    {
+      "id": 30,
+      "dancer": "Dancer A",
+      "action": "echoing gesture",
+      "start": 60.0,
+      "end": 65.0,
+      "from": {
+        "x": 10,
+        "y": 12
+      },
+      "to": {
+        "x": 10,
+        "y": 13
+      }
+    },
+    {
+      "id": 31,
+      "dancer": "Dancer B",
+      "action": "response gesture",
+      "start": 62.0,
+      "end": 67.0,
+      "from": {
+        "x": 9,
+        "y": 12
+      },
+      "to": {
+        "x": 9,
+        "y": 13
+      }
+    },
+    {
+      "id": 32,
+      "dancer": "Dancer C",
+      "action": "move to center",
+      "start": 60.0,
+      "end": 65.0,
+      "from": {
+        "x": 10,
+        "y": 10
+      },
+      "to": {
+        "x": 12,
+        "y": 10
+      }
+    },
+    {
+      "id": 33,
+      "dancer": "Dancer C",
+      "action": "reflective movement",
+      "start": 65.0,
+      "end": 70.0,
+      "from": {
+        "x": 12,
+        "y": 10
+      },
+      "to": {
+        "x": 12,
+        "y": 10
+      }
+    },
+    {
+      "id": 34,
+      "dancer": "Dancer A",
+      "action": "stand apart",
+      "start": 65.0,
+      "end": 68.0,
+      "from": {
+        "x": 10,
+        "y": 13
+      },
+      "to": {
+        "x": 10,
+        "y": 13
+      }
+    },
+    {
+      "id": 35,
+      "dancer": "Dancer B",
+      "action": "stand apart",
+      "start": 65.0,
+      "end": 68.0,
+      "from": {
+        "x": 9,
+        "y": 13
+      },
+      "to": {
+        "x": 9,
+        "y": 13
+      }
+    },
+    {
+      "id": 36,
+      "dancer": "Dancer C",
+      "action": "gesture of embrace",
+      "start": 70.0,
+      "end": 73.0,
+      "from": {
+        "x": 12,
+        "y": 10
+      },
+      "to": {
+        "x": 12,
+        "y": 10
+      }
+    },
+    {
+      "id": 37,
+      "dancer": "Dancer A",
+      "action": "walk off stage",
+      "start": 70.0,
+      "end": 75.0,
+      "from": {
+        "x": 10,
+        "y": 13
+      },
+      "to": {
+        "x": 0,
+        "y": 13
+      }
+    },
+    {
+      "id": 38,
+      "dancer": "Dancer B",
+      "action": "walk off stage",
+      "start": 70.0,
+      "end": 75.0,
+      "from": {
+        "x": 9,
+        "y": 13
+      },
+      "to": {
+        "x": 24,
+        "y": 13
+      }
+    },
+    {
+      "id": 39,
+      "dancer": "Dancer C",
+      "action": "sink to floor",
+      "start": 73.0,
+      "end": 75.0,
+      "from": {
+        "x": 12,
+        "y": 10
+      },
+      "to": {
+        "x": 12,
+        "y": 14
+      }
+    },
+    {
+      "id": 40,
+      "dancer": "Dancer A",
+      "action": "exit",
+      "start": 75.0,
+      "end": 75.0,
+      "from": {
+        "x": 0,
+        "y": 13
+      },
+      "to": {
+        "x": 0,
+        "y": 13
+      }
+    },
+    {
+      "id": 41,
+      "dancer": "Dancer B",
+      "action": "exit",
+      "start": 75.0,
+      "end": 75.0,
+      "from": {
+        "x": 24,
+        "y": 13
+      },
+      "to": {
+        "x": 24,
+        "y": 13
+      }
+    },
+    {
+      "id": 42,
+      "dancer": "Dancer C",
+      "action": "exit",
+      "start": 75.0,
+      "end": 75.0,
+      "from": {
+        "x": 12,
+        "y": 14
+      },
+      "to": {
+        "x": 12,
+        "y": 14
+      }
+    }
+  ]
+}

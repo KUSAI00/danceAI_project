@@ -1,0 +1,95 @@
+{
+  "valid": false,
+  "violations": [
+    {
+      "type": "collision",
+      "time": 52,
+      "position": [
+        12,
+        22
+      ],
+      "dancers": [
+        "D1",
+        "D3"
+      ]
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D1",
+      "time": 15,
+      "distance": 6
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D1",
+      "time": 61,
+      "distance": 5
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D1",
+      "time": 67,
+      "distance": 7
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D2",
+      "time": 10,
+      "distance": 8
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D2",
+      "time": 39,
+      "distance": 5
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D2",
+      "time": 41,
+      "distance": 5
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D2",
+      "time": 61,
+      "distance": 5
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D2",
+      "time": 67,
+      "distance": 8
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D3",
+      "time": 25,
+      "distance": 5
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D3",
+      "time": 26,
+      "distance": 5
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D3",
+      "time": 28,
+      "distance": 5
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D3",
+      "time": 29,
+      "distance": 5
+    },
+    {
+      "type": "speed_violation",
+      "dancer": "D3",
+      "time": 67,
+      "distance": 9
+    }
+  ]
+}

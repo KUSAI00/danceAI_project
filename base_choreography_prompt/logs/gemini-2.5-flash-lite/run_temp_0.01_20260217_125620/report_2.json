@@ -1,0 +1,17 @@
+{
+  "valid": false,
+  "violations": [
+    {
+      "type": "collision",
+      "time": 46,
+      "position": [
+        12,
+        10
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer C"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,633 @@
+{
+  "dancers": [
+    "Dancer A",
+    "Dancer B",
+    "Dancer C"
+  ],
+  "duration": 90.0,
+  "events": [
+    {
+      "id": "e1",
+      "dancer": "Dancer A",
+      "action": "enter",
+      "start": 0.0,
+      "end": 0.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": "e2",
+      "dancer": "Dancer B",
+      "action": "enter",
+      "start": 0.0,
+      "end": 0.0,
+      "from": {
+        "x": 11,
+        "y": 12
+      },
+      "to": {
+        "x": 11,
+        "y": 12
+      }
+    },
+    {
+      "id": "e3",
+      "dancer": "Dancer A",
+      "action": "spinal roll and slide",
+      "start": 0.0,
+      "end": 10.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      },
+      "partner": "Dancer B"
+    },
+    {
+      "id": "e4",
+      "dancer": "Dancer B",
+      "action": "spinal roll and slide",
+      "start": 0.0,
+      "end": 10.0,
+      "from": {
+        "x": 11,
+        "y": 12
+      },
+      "to": {
+        "x": 11,
+        "y": 12
+      },
+      "partner": "Dancer A"
+    },
+    {
+      "id": "e5",
+      "dancer": "Dancer A",
+      "action": "floorwork interaction",
+      "start": 10.0,
+      "end": 20.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      },
+      "partner": "Dancer B"
+    },
+    {
+      "id": "e6",
+      "dancer": "Dancer B",
+      "action": "floorwork interaction",
+      "start": 10.0,
+      "end": 20.0,
+      "from": {
+        "x": 11,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 13
+      },
+      "partner": "Dancer A"
+    },
+    {
+      "id": "e7",
+      "dancer": "Dancer C",
+      "action": "enter",
+      "start": 20.0,
+      "end": 20.0,
+      "from": {
+        "x": 24,
+        "y": 0
+      },
+      "to": {
+        "x": 24,
+        "y": 0
+      }
+    },
+    {
+      "id": "e8",
+      "dancer": "Dancer C",
+      "action": "sprint and slide",
+      "start": 20.0,
+      "end": 25.0,
+      "from": {
+        "x": 24,
+        "y": 0
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": "e9",
+      "dancer": "Dancer A",
+      "action": "stumble backward",
+      "start": 20.0,
+      "end": 25.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 4,
+        "y": 12
+      }
+    },
+    {
+      "id": "e10",
+      "dancer": "Dancer B",
+      "action": "stumble backward",
+      "start": 20.0,
+      "end": 25.0,
+      "from": {
+        "x": 12,
+        "y": 13
+      },
+      "to": {
+        "x": 20,
+        "y": 12
+      }
+    },
+    {
+      "id": "e11",
+      "dancer": "Dancer C",
+      "action": "angular solo",
+      "start": 25.0,
+      "end": 35.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": "e12",
+      "dancer": "Dancer A",
+      "action": "circle perimeter",
+      "start": 25.0,
+      "end": 35.0,
+      "from": {
+        "x": 4,
+        "y": 12
+      },
+      "to": {
+        "x": 2,
+        "y": 2
+      }
+    },
+    {
+      "id": "e13",
+      "dancer": "Dancer B",
+      "action": "circle perimeter",
+      "start": 25.0,
+      "end": 35.0,
+      "from": {
+        "x": 20,
+        "y": 12
+      },
+      "to": {
+        "x": 22,
+        "y": 2
+      }
+    },
+    {
+      "id": "e14",
+      "dancer": "Dancer C",
+      "action": "lunge toward A",
+      "start": 35.0,
+      "end": 38.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 4,
+        "y": 4
+      }
+    },
+    {
+      "id": "e15",
+      "dancer": "Dancer A",
+      "action": "dodge roll",
+      "start": 35.0,
+      "end": 38.0,
+      "from": {
+        "x": 2,
+        "y": 2
+      },
+      "to": {
+        "x": 0,
+        "y": 2
+      }
+    },
+    {
+      "id": "e16",
+      "dancer": "Dancer C",
+      "action": "jete toward B",
+      "start": 38.0,
+      "end": 41.0,
+      "from": {
+        "x": 4,
+        "y": 4
+      },
+      "to": {
+        "x": 20,
+        "y": 4
+      }
+    },
+    {
+      "id": "e17",
+      "dancer": "Dancer B",
+      "action": "duck",
+      "start": 38.0,
+      "end": 41.0,
+      "from": {
+        "x": 22,
+        "y": 2
+      },
+      "to": {
+        "x": 22,
+        "y": 2
+      }
+    },
+    {
+      "id": "e18",
+      "dancer": "Dancer C",
+      "action": "move to DSC",
+      "start": 41.0,
+      "end": 45.0,
+      "from": {
+        "x": 20,
+        "y": 4
+      },
+      "to": {
+        "x": 12,
+        "y": 20
+      }
+    },
+    {
+      "id": "e19",
+      "dancer": "Dancer A",
+      "action": "recover",
+      "start": 38.0,
+      "end": 45.0,
+      "from": {
+        "x": 0,
+        "y": 2
+      },
+      "to": {
+        "x": 2,
+        "y": 2
+      }
+    },
+    {
+      "id": "e20",
+      "dancer": "Dancer A",
+      "action": "run to center",
+      "start": 45.0,
+      "end": 49.0,
+      "from": {
+        "x": 2,
+        "y": 2
+      },
+      "to": {
+        "x": 11,
+        "y": 12
+      }
+    },
+    {
+      "id": "e21",
+      "dancer": "Dancer B",
+      "action": "run to center",
+      "start": 45.0,
+      "end": 49.0,
+      "from": {
+        "x": 22,
+        "y": 2
+      },
+      "to": {
+        "x": 13,
+        "y": 12
+      }
+    },
+    {
+      "id": "e22",
+      "dancer": "Dancer C",
+      "action": "run to center",
+      "start": 45.0,
+      "end": 49.0,
+      "from": {
+        "x": 12,
+        "y": 20
+      },
+      "to": {
+        "x": 12,
+        "y": 13
+      }
+    },
+    {
+      "id": "e23",
+      "dancer": "Dancer A",
+      "action": "lift base",
+      "start": 49.0,
+      "end": 55.0,
+      "from": {
+        "x": 11,
+        "y": 12
+      },
+      "to": {
+        "x": 11,
+        "y": 12
+      },
+      "partner": "Dancer B"
+    },
+    {
+      "id": "e24",
+      "dancer": "Dancer B",
+      "action": "lift base",
+      "start": 49.0,
+      "end": 55.0,
+      "from": {
+        "x": 13,
+        "y": 12
+      },
+      "to": {
+        "x": 13,
+        "y": 12
+      },
+      "partner": "Dancer A"
+    },
+    {
+      "id": "e25",
+      "dancer": "Dancer C",
+      "action": "lift and collapse",
+      "start": 49.0,
+      "end": 55.0,
+      "from": {
+        "x": 12,
+        "y": 13
+      },
+      "to": {
+        "x": 12,
+        "y": 13
+      }
+    },
+    {
+      "id": "e26",
+      "dancer": "Dancer C",
+      "action": "turn sequence to diagonal",
+      "start": 55.0,
+      "end": 65.0,
+      "from": {
+        "x": 12,
+        "y": 13
+      },
+      "to": {
+        "x": 15,
+        "y": 15
+      }
+    },
+    {
+      "id": "e27",
+      "dancer": "Dancer A",
+      "action": "chase C",
+      "start": 55.0,
+      "end": 65.0,
+      "from": {
+        "x": 11,
+        "y": 12
+      },
+      "to": {
+        "x": 10,
+        "y": 10
+      }
+    },
+    {
+      "id": "e28",
+      "dancer": "Dancer B",
+      "action": "chase A",
+      "start": 55.0,
+      "end": 65.0,
+      "from": {
+        "x": 13,
+        "y": 12
+      },
+      "to": {
+        "x": 5,
+        "y": 5
+      }
+    },
+    {
+      "id": "e29",
+      "dancer": "Dancer B",
+      "action": "push A",
+      "start": 65.0,
+      "end": 70.0,
+      "from": {
+        "x": 5,
+        "y": 5
+      },
+      "to": {
+        "x": 6,
+        "y": 6
+      },
+      "partner": "Dancer A"
+    },
+    {
+      "id": "e30",
+      "dancer": "Dancer A",
+      "action": "stumble into C",
+      "start": 65.0,
+      "end": 70.0,
+      "from": {
+        "x": 10,
+        "y": 10
+      },
+      "to": {
+        "x": 11,
+        "y": 11
+      },
+      "partner": "Dancer C"
+    },
+    {
+      "id": "e31",
+      "dancer": "Dancer C",
+      "action": "barrel roll to DSL",
+      "start": 65.0,
+      "end": 70.0,
+      "from": {
+        "x": 15,
+        "y": 15
+      },
+      "to": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    {
+      "id": "e32",
+      "dancer": "Dancer C",
+      "action": "stand and look",
+      "start": 70.0,
+      "end": 72.0,
+      "from": {
+        "x": 24,
+        "y": 24
+      },
+      "to": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    {
+      "id": "e33",
+      "dancer": "Dancer C",
+      "action": "exit",
+      "start": 72.0,
+      "end": 75.0,
+      "from": {
+        "x": 24,
+        "y": 24
+      },
+      "to": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    {
+      "id": "e34",
+      "dancer": "Dancer A",
+      "action": "move to center",
+      "start": 70.0,
+      "end": 75.0,
+      "from": {
+        "x": 11,
+        "y": 11
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": "e35",
+      "dancer": "Dancer B",
+      "action": "retreat to USR",
+      "start": 70.0,
+      "end": 75.0,
+      "from": {
+        "x": 6,
+        "y": 6
+      },
+      "to": {
+        "x": 2,
+        "y": 2
+      }
+    },
+    {
+      "id": "e36",
+      "dancer": "Dancer A",
+      "action": "reach out",
+      "start": 75.0,
+      "end": 85.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": "e37",
+      "dancer": "Dancer B",
+      "action": "walk slowly to A",
+      "start": 75.0,
+      "end": 85.0,
+      "from": {
+        "x": 2,
+        "y": 2
+      },
+      "to": {
+        "x": 12,
+        "y": 10
+      }
+    },
+    {
+      "id": "e38",
+      "dancer": "Dancer A",
+      "action": "look up",
+      "start": 85.0,
+      "end": 90.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": "e39",
+      "dancer": "Dancer B",
+      "action": "look up",
+      "start": 85.0,
+      "end": 90.0,
+      "from": {
+        "x": 12,
+        "y": 10
+      },
+      "to": {
+        "x": 12,
+        "y": 10
+      }
+    },
+    {
+      "id": "e40",
+      "dancer": "Dancer A",
+      "action": "exit",
+      "start": 90.0,
+      "end": 90.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": "e41",
+      "dancer": "Dancer B",
+      "action": "exit",
+      "start": 90.0,
+      "end": 90.0,
+      "from": {
+        "x": 12,
+        "y": 10
+      },
+      "to": {
+        "x": 12,
+        "y": 10
+      }
+    }
+  ]
+}

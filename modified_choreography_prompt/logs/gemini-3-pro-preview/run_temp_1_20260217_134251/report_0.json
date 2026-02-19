@@ -1,0 +1,89 @@
+{
+  "valid": false,
+  "violations": [
+    {
+      "type": "collision",
+      "time": 11,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer B"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 29,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer C"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 30,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer A",
+        "Dancer C"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 52,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer B",
+        "Dancer C"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 53,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer B",
+        "Dancer C"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 54,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer B",
+        "Dancer C"
+      ]
+    },
+    {
+      "type": "collision",
+      "time": 55,
+      "position": [
+        12,
+        12
+      ],
+      "dancers": [
+        "Dancer B",
+        "Dancer C"
+      ]
+    }
+  ]
+}

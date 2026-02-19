@@ -1,0 +1,533 @@
+{
+  "dancers": [
+    "A",
+    "B",
+    "C"
+  ],
+  "duration": 80.0,
+  "events": [
+    {
+      "id": 1,
+      "dancer": "A",
+      "action": "enter",
+      "start": 2.0,
+      "end": 5.0,
+      "from": {
+        "x": 0,
+        "y": 24
+      },
+      "to": {
+        "x": 2,
+        "y": 22
+      }
+    },
+    {
+      "id": 2,
+      "dancer": "B",
+      "action": "enter",
+      "start": 2.0,
+      "end": 5.0,
+      "from": {
+        "x": 24,
+        "y": 0
+      },
+      "to": {
+        "x": 22,
+        "y": 2
+      }
+    },
+    {
+      "id": 3,
+      "dancer": "A",
+      "action": "contraction",
+      "start": 5.0,
+      "end": 10.0,
+      "from": {
+        "x": 2,
+        "y": 22
+      },
+      "to": {
+        "x": 2,
+        "y": 22
+      }
+    },
+    {
+      "id": 4,
+      "dancer": "B",
+      "action": "rise_and_arch",
+      "start": 5.0,
+      "end": 10.0,
+      "from": {
+        "x": 22,
+        "y": 2
+      },
+      "to": {
+        "x": 22,
+        "y": 2
+      }
+    },
+    {
+      "id": 5,
+      "dancer": "A",
+      "action": "floor_sweep",
+      "start": 10.0,
+      "end": 15.0,
+      "from": {
+        "x": 2,
+        "y": 22
+      },
+      "to": {
+        "x": 2,
+        "y": 22
+      }
+    },
+    {
+      "id": 6,
+      "dancer": "B",
+      "action": "wait",
+      "start": 10.0,
+      "end": 11.0,
+      "from": {
+        "x": 22,
+        "y": 2
+      },
+      "to": {
+        "x": 22,
+        "y": 2
+      }
+    },
+    {
+      "id": 7,
+      "dancer": "B",
+      "action": "rond_de_jambe",
+      "start": 11.0,
+      "end": 15.0,
+      "from": {
+        "x": 22,
+        "y": 2
+      },
+      "to": {
+        "x": 22,
+        "y": 2
+      }
+    },
+    {
+      "id": 8,
+      "dancer": "A",
+      "action": "run_to_center",
+      "start": 15.0,
+      "end": 20.0,
+      "from": {
+        "x": 2,
+        "y": 22
+      },
+      "to": {
+        "x": 11,
+        "y": 13
+      }
+    },
+    {
+      "id": 9,
+      "dancer": "B",
+      "action": "run_to_center",
+      "start": 15.0,
+      "end": 20.0,
+      "from": {
+        "x": 22,
+        "y": 2
+      },
+      "to": {
+        "x": 13,
+        "y": 11
+      }
+    },
+    {
+      "id": 10,
+      "dancer": "A",
+      "action": "orbit_reach",
+      "start": 20.0,
+      "end": 25.0,
+      "from": {
+        "x": 11,
+        "y": 13
+      },
+      "to": {
+        "x": 11,
+        "y": 12
+      },
+      "partner": "B"
+    },
+    {
+      "id": 11,
+      "dancer": "B",
+      "action": "orbit_dodge",
+      "start": 20.0,
+      "end": 25.0,
+      "from": {
+        "x": 13,
+        "y": 11
+      },
+      "to": {
+        "x": 13,
+        "y": 12
+      },
+      "partner": "A"
+    },
+    {
+      "id": 12,
+      "dancer": "A",
+      "action": "unison_phrase",
+      "start": 25.0,
+      "end": 32.0,
+      "from": {
+        "x": 11,
+        "y": 12
+      },
+      "to": {
+        "x": 13,
+        "y": 12
+      },
+      "partner": "B"
+    },
+    {
+      "id": 13,
+      "dancer": "B",
+      "action": "unison_phrase",
+      "start": 25.0,
+      "end": 32.0,
+      "from": {
+        "x": 13,
+        "y": 12
+      },
+      "to": {
+        "x": 15,
+        "y": 12
+      },
+      "partner": "A"
+    },
+    {
+      "id": 14,
+      "dancer": "A",
+      "action": "lift_base",
+      "start": 32.0,
+      "end": 40.0,
+      "from": {
+        "x": 13,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      },
+      "partner": "B"
+    },
+    {
+      "id": 15,
+      "dancer": "B",
+      "action": "lift_flyer",
+      "start": 32.0,
+      "end": 40.0,
+      "from": {
+        "x": 15,
+        "y": 12
+      },
+      "to": {
+        "x": 13,
+        "y": 12
+      },
+      "partner": "A"
+    },
+    {
+      "id": 16,
+      "dancer": "C",
+      "action": "enter",
+      "start": 40.0,
+      "end": 44.0,
+      "from": {
+        "x": 12,
+        "y": 0
+      },
+      "to": {
+        "x": 12,
+        "y": 10
+      }
+    },
+    {
+      "id": 17,
+      "dancer": "C",
+      "action": "slice_disrupt",
+      "start": 44.0,
+      "end": 46.0,
+      "from": {
+        "x": 12,
+        "y": 10
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": 18,
+      "dancer": "A",
+      "action": "stumble_right",
+      "start": 44.0,
+      "end": 46.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 16,
+        "y": 12
+      }
+    },
+    {
+      "id": 19,
+      "dancer": "B",
+      "action": "stumble_left",
+      "start": 44.0,
+      "end": 46.0,
+      "from": {
+        "x": 13,
+        "y": 12
+      },
+      "to": {
+        "x": 9,
+        "y": 12
+      }
+    },
+    {
+      "id": 20,
+      "dancer": "C",
+      "action": "solo_jete",
+      "start": 46.0,
+      "end": 51.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 14,
+        "y": 12
+      }
+    },
+    {
+      "id": 21,
+      "dancer": "A",
+      "action": "reach_for_b",
+      "start": 46.0,
+      "end": 51.0,
+      "from": {
+        "x": 16,
+        "y": 12
+      },
+      "to": {
+        "x": 15,
+        "y": 12
+      }
+    },
+    {
+      "id": 22,
+      "dancer": "B",
+      "action": "spin_disoriented",
+      "start": 46.0,
+      "end": 56.0,
+      "from": {
+        "x": 9,
+        "y": 12
+      },
+      "to": {
+        "x": 9,
+        "y": 12
+      }
+    },
+    {
+      "id": 23,
+      "dancer": "C",
+      "action": "block_path",
+      "start": 51.0,
+      "end": 56.0,
+      "from": {
+        "x": 14,
+        "y": 12
+      },
+      "to": {
+        "x": 14.5,
+        "y": 12
+      },
+      "partner": "A"
+    },
+    {
+      "id": 24,
+      "dancer": "C",
+      "action": "spin_a",
+      "start": 56.0,
+      "end": 58.0,
+      "from": {
+        "x": 14.5,
+        "y": 12
+      },
+      "to": {
+        "x": 14.5,
+        "y": 12
+      },
+      "partner": "A"
+    },
+    {
+      "id": 25,
+      "dancer": "A",
+      "action": "spun_by_c",
+      "start": 56.0,
+      "end": 58.0,
+      "from": {
+        "x": 15,
+        "y": 12
+      },
+      "to": {
+        "x": 15,
+        "y": 12
+      },
+      "partner": "C"
+    },
+    {
+      "id": 26,
+      "dancer": "C",
+      "action": "push_b",
+      "start": 58.0,
+      "end": 61.0,
+      "from": {
+        "x": 14.5,
+        "y": 12
+      },
+      "to": {
+        "x": 6,
+        "y": 12
+      },
+      "partner": "B"
+    },
+    {
+      "id": 27,
+      "dancer": "B",
+      "action": "pushed_to_floor",
+      "start": 58.0,
+      "end": 61.0,
+      "from": {
+        "x": 9,
+        "y": 12
+      },
+      "to": {
+        "x": 5,
+        "y": 12
+      },
+      "partner": "C"
+    },
+    {
+      "id": 28,
+      "dancer": "C",
+      "action": "collapse",
+      "start": 61.0,
+      "end": 66.0,
+      "from": {
+        "x": 6,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": 29,
+      "dancer": "C",
+      "action": "exit",
+      "start": 66.0,
+      "end": 71.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 0
+      }
+    },
+    {
+      "id": 30,
+      "dancer": "A",
+      "action": "look_across",
+      "start": 61.0,
+      "end": 71.0,
+      "from": {
+        "x": 15,
+        "y": 12
+      },
+      "to": {
+        "x": 15,
+        "y": 12
+      },
+      "partner": "B"
+    },
+    {
+      "id": 31,
+      "dancer": "B",
+      "action": "look_across",
+      "start": 61.0,
+      "end": 71.0,
+      "from": {
+        "x": 5,
+        "y": 12
+      },
+      "to": {
+        "x": 5,
+        "y": 12
+      },
+      "partner": "A"
+    },
+    {
+      "id": 32,
+      "dancer": "B",
+      "action": "exit",
+      "start": 71.0,
+      "end": 76.0,
+      "from": {
+        "x": 5,
+        "y": 12
+      },
+      "to": {
+        "x": 0,
+        "y": 24
+      }
+    },
+    {
+      "id": 33,
+      "dancer": "A",
+      "action": "reach_hand",
+      "start": 71.0,
+      "end": 76.0,
+      "from": {
+        "x": 15,
+        "y": 12
+      },
+      "to": {
+        "x": 15,
+        "y": 12
+      }
+    },
+    {
+      "id": 34,
+      "dancer": "A",
+      "action": "exit",
+      "start": 76.0,
+      "end": 80.0,
+      "from": {
+        "x": 15,
+        "y": 12
+      },
+      "to": {
+        "x": 24,
+        "y": 12
+      }
+    }
+  ]
+}

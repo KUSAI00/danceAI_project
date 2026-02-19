@@ -1,0 +1,19 @@
+🚀 Starting Run: 20260217_131544
+📂 Output Directory: base_choreography_prompt\logs\gemini-2.5-flash\run_temp_0.1_20260217_131544
+🤖 Model: gemini-2.5-flash
+🔧 Using gemini client
+
+[1/3] Generating Natural Language Choreography...
+   -> Text generated.
+
+[2/3] Converting to JSON...
+   -> Initial JSON created.
+
+[3/3] Entering Validation Loop...
+--- Validating Iteration 0 ---
+❌ Iteration 0 Failed. Violations: 7
+--- Requesting Fix (Iteration 1) ---
+--- Validating Iteration 1 ---
+✅ SUCCESS! Valid choreography found at iteration 1
+
+Done.

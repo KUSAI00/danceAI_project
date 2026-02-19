@@ -1,0 +1,93 @@
+Here is the choreography design for the piece titled **"Tension in the Wire."**
+
+### Part 1: Meta-Analysis & Setup
+
+**Dance Style:**
+Contemporary (Fusion of Release Technique and Graham-based contractions). The movement quality shifts between fluid, weighted connection and sharp, angular distinctness.
+
+**Mood:**
+Claustrophobic, Magnetic, Volatile. The atmosphere is thick with invisible tension, like a rubber band being stretched to its breaking point.
+
+**Narrative Arc:**
+The piece explores the physics of attachment. Two entities exist in a symbiotic, counter-balanced state until a third force introduces entropy, causing the system to spin out of control and eventually fracture.
+
+**Dancers (3 Total):**
+*   **Dancer A (The Anchor):** Male or Female. Movements are grounded, heavy, focusing on floor work and low center of gravity.
+*   **Dancer B (The Kite):** Male or Female. Movements are airy, suspended, constantly leaning away from center, relying on A for balance.
+*   **Dancer C (The Cutter):** Male or Female. The antagonist force. Movements are linear, slicing, and fast.
+
+**Stage Setting:**
+A bare stage. Lighting is dim, focused on Center Stage initially, expanding to a cool wash later.
+
+**Spatial Plan:**
+*   **Beginning:** Tight focus at Center Stage.
+*   **Middle:** Expansion to diagonals (Upstage Left $\leftrightarrow$ Downstage Right).
+*   **End:** Dissipation to wings, leaving one isolated figure Center.
+
+---
+
+### Part 2: Choreography Script
+
+**Total Duration:** 90 Seconds
+**Music Cue:** Minimalist string quartet with heavy breathing or percussive industrial undertones.
+
+#### Section 1: Symbiosis (0:00 – 0:25)
+
+*   **0:00 [Stage Set]:** **Dancer A** and **Dancer B** are already on stage, Center Stage.
+    *   **A** is in a deep wide squat (second position grand plié).
+    *   **B** is standing behind **A**, hands on **A**’s shoulders, leaning significantly backward in a plank, trusting **A**’s grip on their forearms to keep them from falling.
+*   **0:00 – 0:10:**
+    *   **A** slowly shifts weight laterally, left to right. **B** mirrors this sway, feet rooted, upper body swinging like a pendulum.
+    *   **B** releases one hand, spiraling the torso open to the ceiling, creating a "V" shape between the two bodies. **A** anchors them down.
+*   **0:10 – 0:20:**
+    *   **A** rotates 180 degrees on the floor (swiveling on balls of feet). **B** is pulled into a forward fold over **A**’s back.
+    *   **A** performs a forward roll *underneath* **B**.
+    *   **B** is propelled by this motion into a low arabesque turn, landing softly.
+    *   They immediately reconnect: palm-to-palm, pushing against each other with maximum isometric tension.
+*   **0:20 – 0:25:**
+    *   They perform a "counter-balance spin." Holding hands, they lean away from each other and spin rapidly in a tight circle at Center Stage.
+
+#### Section 2: The Entropy (0:25 – 0:55)
+
+*   **0:25 [ENTRY]:** **Dancer C** enters from Upstage Left (USL) sprinting.
+*   **0:25 – 0:35:**
+    *   **C** performs a slide across the floor, cutting directly through the legs of **A** and **B**, breaking their handhold.
+    *   **A** stumbles Downstage Right (DSR). **B** stumbles Upstage Right (USR).
+    *   **C** stands abruptly Center Stage, performing sharp, robotic isolations (head snap, shoulder roll, ribcage isolation).
+*   **0:35 – 0:45:**
+    *   **A** and **B** attempt to rush back to the center.
+    *   **C** intercepts **A** with a high leg extension (developpé à la seconde), blocking the path.
+    *   **C** grabs **B**’s arm and whips them into a barrel turn away from the center.
+    *   *Dynamic:* It is a chaotic triangle. A tries to reach B; C physically blocks, redirects, or lifts them away.
+*   **0:45 – 0:55 [The Knot]:**
+    *   All three converge Center.
+    *   **A** lifts **C** horizontally.
+    *   **B** slides underneath **A**’s legs.
+    *   **C** drops from the lift, rolling over **B**.
+    *   They end in a tangled pile on the floor, breathing heavily.
+
+#### Section 3: The Fracture (0:55 – 1:15)
+
+*   **0:55 – 1:05:**
+    *   Explosion of movement. **C** performs a backwards shoulder roll and stands up, backing away towards Upstage Center (USC).
+    *   **A** and **B** stand up slowly, facing each other. The "invisible string" is there, but vibrating.
+    *   **A** reaches a hand out. **B** reaches a hand out. Their fingers are inches apart.
+    *   **C**, from Upstage, performs a sharp "clapping" motion.
+*   **1:05 – 1:15:**
+    *   On the clap, **B** is "blown" backwards. **B** performs a series of erratic chaîné turns towards the Downstage Left (DSL) exit.
+    *   **A** collapses to knees, performing a deep contraction, head to the floor.
+    *   **C** watches coldly from Upstage.
+
+#### Section 4: Dissipation (1:15 – 1:30)
+
+*   **1:15 [EXIT]:** **Dancer B** exits Downstage Left (running off stage).
+*   **1:15 – 1:25:**
+    *   **C** slowly walks backwards into the darkness of Upstage Center.
+    *   **A** remains on knees Center Stage. **A** slowly unfolds the spine, reaching one arm straight up to the light, trembling.
+*   **1:25 [EXIT]:** **Dancer C** exits Upstage Center (fading into the dark).
+*   **1:25 – 1:30:**
+    *   **A**’s raised hand suddenly drops limp.
+    *   **A** looks at the empty space where **B** was.
+    *   Blackout.
+
+**End of Choreography.**

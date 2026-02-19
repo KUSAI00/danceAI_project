@@ -1,0 +1,102 @@
+As an expert Choreography Design System, I have meticulously crafted a 75-second contemporary dance piece for three dancers, focusing on a journey from isolation to fragile connection and collective uplift.
+
+---
+
+**Meta-Analysis & Setup:**
+
+*   **Dance Style:** Contemporary Dance
+*   **Mood:** Initially tense and fragmented, evolving into a sense of fragile connection, shared burden, and eventual release with a hint of hope.
+*   **Narrative Arc:** The piece explores the human experience of individual struggle, the hesitant search for connection, the strength found in collective support, and the eventual return to individual paths, enriched by shared experience.
+*   **Dancer Roles/Character Dynamics:**
+    *   **Dancer A (The Anchor):** Grounded, strong, often initiating or supporting. Represents stability and resilience.
+    *   **Dancer B (The Seeker):** Fluid, searching, often reaching or exploring. Represents vulnerability and curiosity.
+    *   **Dancer C (The Catalyst):** Dynamic, sharp, sometimes disruptive, sometimes unifying. Represents change, energy, and the impetus for interaction.
+
+**Structure & Spatial Planning (75 seconds):**
+
+The piece is divided into four distinct sections, ensuring full stage usage and a clear progression of mood and interaction.
+
+*   **Section 1: Fragmentation & Isolation (0:00 - 0:20)**
+    *   **Mood:** Tense, internal struggle, individual confinement.
+    *   **Spatial Usage:** Dancers occupy separate, distant areas of the stage, primarily using low levels and floor work. No direct eye contact or acknowledgment.
+*   **Section 2: Tentative Connection & Echoes (0:20 - 0:45)**
+    *   **Mood:** Searching, hesitant, subtle mirroring, growing awareness.
+    *   **Spatial Usage:** Dancers begin to move towards a central axis, or echo each other's movements from a distance, gradually increasing proximity. Mid-levels introduced.
+*   **Section 3: Shared Burden & Uplift (0:45 - 1:05)**
+    *   **Mood:** Collaborative, supportive, building energy, collective strength.
+    *   **Spatial Usage:** Dancers come into close proximity, engaging in partner work and group formations. Full stage used for expansive, unified movement, incorporating higher levels.
+*   **Section 4: Release & Dispersal (1:05 - 1:15)**
+    *   **Mood:** Hopeful, gentle resolution, individual paths, sustained reflection.
+    *   **Spatial Usage:** Dancers gracefully unravel from the central formation, moving towards different exit points, maintaining a sense of shared experience even in separation.
+
+---
+
+**Final Choreography Script: "Echoes of Resilience"**
+
+**Dancers:** A, B, C
+**Duration:** 1 minute 15 seconds (75 seconds)
+
+**(0:00 - 0:20) Section 1: Fragmentation & Isolation**
+
+*   **0:00 - Entry:**
+    *   **Dancer A:** Enters from Upstage Right (USR) with a slow, low crawl, body contorted, ending curled tightly on the floor at Downstage Left (DSL), facing away from the audience.
+    *   **Dancer B:** Enters from Upstage Left (USL) with slow, dragging steps, hunched over, hands clasped tightly to their chest. They stop at Center Stage Right (CSR), slowly sinking to a low crouch, head buried.
+    *   **Dancer C:** Enters from Downstage Right (DSR) with sharp, fragmented, almost robotic steps. They move to Center Stage Left (CSL), turning their back to the audience, arms wrapped tightly around themselves, shoulders trembling subtly.
+*   **0:05 - Individual Struggle:**
+    *   **Dancer A (DSL):** Begins a slow, arduous rise from the curled position, spine articulating segment by segment, only to collapse back down with a controlled thud, repeating this cycle twice. Focus is entirely internal.
+    *   **Dancer B (CSR):** Performs small, repetitive gestures – hands clenching and unclenching, head dropping heavily towards the chest, then snapping back up, eyes wide but unfocused.
+    *   **Dancer C (CSL):** Executes sharp, isolated arm movements, as if trying to break free from invisible restraints, hands pushing against the air, then pulling back sharply to the body.
+*   **0:15 - Growing Tension & Collective Collapse:**
+    *   All three dancers, in their separate spaces, perform a synchronized, sharp intake of breath, followed by a sudden, controlled collapse to the floor.
+    *   **Dancer A:** Lands flat on their back at DSL, arms splayed, chest heaving.
+    *   **Dancer B:** Lands on their stomach at CSR, head buried in their arms.
+    *   **Dancer C:** Lands on their side at CSL, returning to a fetal position, facing upstage.
+
+**(0:20 - 0:45) Section 2: Tentative Connection & Echoes**
+
+*   **0:20 - Awakening:**
+    *   **Dancer A (DSL):** Slowly lifts their head, eyes scanning the space, then lowers it with a sigh.
+    *   **Dancer B (CSR):** Initiates a slow, undulating spine wave, rising from their stomach to a low crouch, gaze still downcast.
+    *   **Dancer C (CSL):** Uncurls slightly, extending one arm tentatively towards Center Stage (CS), fingers splayed, then retracting it slowly.
+*   **0:25 - Echoes of Movement:**
+    *   **Dancer B (CSR):** Initiates a slow, sustained lunge towards CS, their extended arm leading the movement, gaze lifting slightly.
+    *   **Dancer A (DSL):** Mirrors Dancer B's lunge with a slight delay, reaching towards CS, but with a more grounded, heavier quality.
+    *   **Dancer C (CSL):** Performs a similar reaching gesture towards CS, but with a sharper, more angular quality, their body twisting slightly.
+*   **0:35 - Approaching & Observing:**
+    *   **Dancer B:** Continues to move with sustained, gliding steps towards CS, maintaining the reaching quality, now looking towards A.
+    *   **Dancer A:** Follows, slightly behind and to the left of B, mirroring the path but with a more grounded, deliberate feel, eyes on B.
+    *   **Dancer C:** Moves in a more direct, almost confrontational path towards CS, observing A and B, their movements still sharp but less internal.
+*   **0:40 - First Contact & Catalyst:**
+    *   **Dancer B and A:** Reach hands towards each other at CS, fingers brushing lightly, a moment of hesitation, then pulling away simultaneously.
+    *   **Dancer C:** Observes this interaction from a slight distance (just upstage of A and B), then performs a sharp, percussive floor slap with an open palm, drawing both A and B's attention.
+
+**(0:45 - 1:05) Section 3: Shared Burden & Uplift**
+
+*   **0:45 - Formation:**
+    *   **Dancer C:** Moves quickly and decisively to stand between A and B at CS, facing upstage.
+    *   **Dancer A and B:** Slowly turn to face C, forming a tight, equilateral triangle at CS, with C at the apex.
+*   **0:50 - Counterbalance & Support:**
+    *   **Dancer C:** Leans heavily into Dancer A's back, who braces with a strong stance, providing a solid anchor.
+    *   **Dancer B:** Then places hands on C's shoulders, providing upward lift and stability.
+    *   The trio performs a slow, collective lean and counterbalance, shifting weight as a unified entity, demonstrating mutual reliance.
+*   **0:55 - Collective Rise:**
+    *   **Dancer A:** Initiates a powerful, upward drive from their legs, lifting C slightly off the ground (or providing a strong upward push through C's back).
+    *   **Dancer B:** Supports C's torso, guiding the lift, ensuring C's stability.
+    *   They move into a strong, unified pose: C standing tall and expansive, A and B supporting from behind and sides, all arms extended upwards, reaching towards the sky. (CS)
+*   **1:00 - Expansive Movement:**
+    *   The trio, maintaining their unified formation, moves as one unit. They perform a slow, expansive turn across the stage from CS towards Upstage Right (USR), arms sweeping outwards in a grand gesture, then drawing inwards, embodying shared momentum and purpose.
+
+**(1:05 - 1:15) Section 4: Release & Dispersal**
+
+*   **1:05 - Gentle Separation:**
+    *   The trio slowly unravels from their formation at USR.
+    *   **Dancer A:** Gently releases C, stepping back and performing a sustained, downward spiral to the floor, ending in a kneeling position, gazing towards DSR.
+    *   **Dancer B:** Maintains a connection with C for a moment longer, a hand lingering on C's back, then performs a slow, reaching extension towards Upstage Left (USL), their body elongating.
+*   **1:10 - Individual Paths:**
+    *   **Dancer C:** Performs a final, expansive gesture upwards with both arms, then slowly walks with quiet dignity towards Downstage Right (DSR), head held high, a sense of newfound strength and peace.
+    *   **Dancer A (USR):** From the kneeling position, slowly rises to a standing position, turning to face DSR, a subtle, hopeful smile gracing their lips.
+    *   **Dancer B (USL):** Continues the slow, reaching extension, moving further towards USL, their gaze fixed on an unseen point beyond the stage.
+*   **1:15 - Exit:**
+    *   **Dancer C:** Exits DSR with a sustained, confident walk.
+    *   **Dancer B:** Exits USL with a final, lingering reach, their hand slowly disappearing from view.
+    *   **Dancer A:** Takes one last look towards the audience, a quiet moment of reflection, then slowly walks with quiet dignity towards USR, exiting just as the stage lights begin to fade to black.

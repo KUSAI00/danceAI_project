@@ -1,0 +1,99 @@
+Let's design a conceptually rich and spatially complex dance piece.
+
+## Choreography Design System: Stage 1 - Meta-Analysis & Setup
+
+**1. Dance Style:** Contemporary Dance
+
+**2. Mood:** A blend of introspection, connection, isolation, and eventual liberation. Starts with a sense of quiet unease, builds to moments of intense shared struggle, and resolves into a hopeful, expansive feeling.
+
+**3. Narrative Arc:** The piece explores the theme of **"Fragmented Echoes and the Search for Resonance."** It begins with individuals existing in their own isolated experiences, represented by fragmented movements and distinct spatial territories. Through a series of interactions, they begin to perceive and respond to each other's "echoes," leading to moments of both dissonance and harmony. The climax involves a collective struggle against an unseen force or internal conflict, culminating in a shared release and a discovery of interconnectedness.
+
+**4. Dancers & Roles (4 Dancers):**
+
+*   **Dancer A (The Anchor):** Grounded, often initiating or stabilizing movements. Represents a core emotional truth or a foundational element.
+*   **Dancer B (The Waverer):** Fluid, often reactive and searching. Represents uncertainty, doubt, or a yearning for connection.
+*   **Dancer C (The Disruptor):** Sharp, angular, and unpredictable. Represents external pressures, internal anxieties, or moments of unexpected revelation.
+*   **Dancer D (The Seeker):** Expansive, reaching, and observant. Represents hope, intuition, or the potential for understanding.
+
+**5. Structure (60-90 Seconds):**
+
+*   **Section 1: Individual Echoes (0:00 - 0:20)**
+    *   Dancers A, B, and C establish their individual spaces and movement vocabularies.
+    *   Focus on isolated gestures and internal focus.
+    *   Dancer D observes from the periphery.
+*   **Section 2: Nascent Resonance (0:20 - 0:40)**
+    *   Dancers A and B begin to subtly mirror or respond to each other's movements.
+    *   Dancer C's sharp movements create brief points of friction.
+    *   Dancer D begins to move, exploring the space and the others' energies.
+*   **Section 3: Collective Struggle (0:40 - 0:55)**
+    *   All dancers engage in a more unified, yet conflicted, movement phrase.
+    *   Moments of pushing, pulling, and falling together.
+    *   Dancer C's disruption becomes more overt, creating tension.
+*   **Section 4: Shared Release & Emergence (0:55 - 1:15)**
+    *   A moment of stillness or a shared breath.
+    *   A new, more unified movement phrase emerges, characterized by shared momentum and support.
+    *   Dancers A, B, and D find a sense of collective strength. Dancer C transitions to a more integrated role.
+*   **Section 5: Expansive Horizon (1:15 - 1:30)**
+    *   Dancers move towards the edges of the stage, reaching outwards.
+    *   A sense of openness and possibility.
+    *   A final tableau of interconnectedness.
+
+**6. Spatial Usage:**
+
+*   **Stage Left (SL), Stage Right (SR), Upstage Left (USL), Upstage Right (USR), Downstage Left (DSL), Downstage Right (DSR), Center Stage (CS).**
+*   **Initial isolation:** Dancers A, B, and C will occupy distinct quadrants of the stage.
+*   **Movement:** Dancers will travel across the stage, utilizing diagonals, circular pathways, and pathways that intersect.
+*   **Interactions:** Proximity will be key, ranging from close-contact partnering to moments of significant distance.
+*   **Climax:** The struggle will likely occur in the center of the stage, drawing all dancers inward.
+*   **Resolution:** The final section will see dancers spreading outwards, utilizing the full width and depth of the stage.
+
+## Choreography Design System: Stage 2 - Final Output Generation
+
+**Piece Title:** Echoes in the Stillness
+
+**Number of Dancers:** 4
+
+**Duration:** 1 minute 30 seconds
+
+---
+
+**(0:00 - 0:05) Blackout. Silence.**
+
+**(0:05 - 0:10) Lights up. Dancers A, B, and C are discovered in distinct, isolated positions.**
+*   **Dancer A** is downstage left (DSL), in a deep plié, head bowed.
+*   **Dancer B** is center stage (CS), in a suspended arabesque, slowly lowering to the floor.
+*   **Dancer C** is upstage right (USR), in a sharp, angular kneeling position, arms held rigidly.
+*   **Dancer D** is not yet visible.
+
+**(0:10 - 0:20) Section 1: Individual Echoes**
+*   **Dancer A:** (0:10) Slowly unfurls from the plié, extending one arm in a searching gesture towards the floor. The movement is deliberate and contained. (0:15) Repeats the searching gesture with the other arm, then brings both hands to chest, as if embracing a quiet internal space.
+*   **Dancer B:** (0:10) Continues to lower to the floor, ending in a fetal position. (0:15) Slowly rolls onto their back, legs drawing up, then extending one leg slowly towards the ceiling, a fluid, languid movement.
+*   **Dancer C:** (0:10) Unfolds from the kneeling position into a series of sharp, isolated movements: a quick head turn, a flick of the wrist, a tense extension of one leg. (0:15) Holds a strong, static pose, arms held out to the sides, fingers splayed.
+*   **Dancer D:** (0:20) **Enters** from upstage left (USL), moving with a quiet, observational quality. They walk slowly across the back of the stage, observing each dancer from a distance, their body language open and curious.
+
+**(0:20 - 0:40) Section 2: Nascent Resonance**
+*   **Dancer A:** (0:20) Begins a slow, grounded walk towards center stage, arms tracing subtle curves in the air. (0:25) As they approach the center, they notice Dancer B's extended leg. Dancer A mirrors the leg extension with their own, a beat behind, their movement slightly less fluid.
+*   **Dancer B:** (0:20) Begins to unfurl from their fetal position, reaching outwards. (0:25) As Dancer A mirrors their leg, Dancer B subtly shifts their weight, their movement becoming more responsive, a gentle ebb and flow.
+*   **Dancer C:** (0:20) Sees Dancer A and B beginning to connect. C breaks their static pose with a sharp, percussive movement – a sudden step forward, an arm sweep that cuts through the air. (0:25) C moves towards the periphery of A and B's interaction, their movements creating a subtle tension, like a discordant note.
+*   **Dancer D:** (0:20) Continues their slow traversal, now moving towards downstage right (DSR). (0:30) They begin to mimic some of Dancer C's sharper gestures, but with less intensity, more as an exploration of the energy.
+
+**(0:40 - 0:55) Section 3: Collective Struggle**
+*   **Dancer A:** (0:40) Moves into a more grounded, resisting posture, arms pushing against an unseen force. (0:45) Joins with Dancer B in a brief, connected phrase of pushing and pulling, their bodies in close proximity, supporting each other through shared momentum.
+*   **Dancer B:** (0:40) Responds to Dancer A's resistance, their movements becoming more urgent, searching for stability. (0:45) Engages with Dancer A, their connection a dance of shared struggle, with moments of almost falling and recovering together.
+*   **Dancer C:** (0:40) Becomes the catalyst for the struggle. They move aggressively into the space between A and B, their sharp, angular movements creating disruption. (0:45) C pushes and pulls at A and B, their energy sharp and demanding, creating a palpable tension.
+*   **Dancer D:** (0:40) Moves towards the center, drawn by the conflict. (0:45) D attempts to mediate or absorb the tension, reaching out to both A and C, trying to create a bridge, but their efforts are met with resistance.
+
+**(0:55 - 1:15) Section 4: Shared Release & Emergence**
+*   **Dancer A:** (0:55) A moment of shared breath. A and B collapse slightly, then rise together. (1:00) A new, unified phrase begins, initiated by A – a sweeping arm gesture that lifts B. (1:05) A provides a strong base for B, who rises and then extends outwards.
+*   **Dancer B:** (0:55) Recovers from the struggle, finding a moment of release. (1:00) Responds to A's lift, their movement becoming lighter and more expansive. (1:05) Initiates a turn, supported by A's grounding.
+*   **Dancer C:** (0:55) After the intense struggle, C hesitates, then slowly begins to integrate. Their sharp movements soften. (1:00) C mirrors a part of the A/B phrase, but with a gentler quality, finding a rhythm within the new flow.
+*   **Dancer D:** (0:55) Sees the shift. D moves towards the center, offering a steadying presence. (1:00) Joins the emerging phrase, their movements more fluid and less reactive than before. (1:05) D now moves in unison with A, B, and C, their individual energies harmonizing.
+
+**(1:15 - 1:30) Section 5: Expansive Horizon**
+*   **Dancer A:** (1:15) Begins to move towards downstage right (DSR), leading the group in a forward momentum. (1:20) Reaches out towards the audience, a gesture of openness.
+*   **Dancer B:** (1:15) Moves with A, their fluidity now a graceful flow of shared movement. (1:20) Turns and reaches towards upstage right (USR).
+*   **Dancer C:** (1:15) Moves with the group, their sharp edges softened, their movements now integrated into the collective. (1:20) Moves towards upstage left (USL).
+*   **Dancer D:** (1:15) Moves with the group, their observational quality now a confident presence. (1:20) Reaches towards downstage left (DSL).
+*   **(1:25 - 1:30) All dancers spread across the stage, each reaching in a slightly different direction, their bodies in a state of balanced, expansive extension. They hold this tableau as the lights slowly fade to black.**
+
+**(1:30) Blackout. Silence.**

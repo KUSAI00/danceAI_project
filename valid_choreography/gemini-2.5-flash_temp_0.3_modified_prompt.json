@@ -1,0 +1,796 @@
+{
+  "dancers": [
+    "A",
+    "B",
+    "C"
+  ],
+  "duration": 75.0,
+  "events": [
+    {
+      "id": 1,
+      "dancer": "A",
+      "action": "enter",
+      "start": 0.0,
+      "end": 0.0,
+      "from": {
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 2,
+      "dancer": "B",
+      "action": "enter",
+      "start": 0.0,
+      "end": 0.0,
+      "from": {
+        "x": 24,
+        "y": 24
+      },
+      "to": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    {
+      "id": 3,
+      "dancer": "C",
+      "action": "enter",
+      "start": 0.0,
+      "end": 0.0,
+      "from": {
+        "x": 12,
+        "y": 0
+      },
+      "to": {
+        "x": 12,
+        "y": 0
+      }
+    },
+    {
+      "id": 4,
+      "dancer": "A",
+      "action": "unfurl_and_rise_into_low_contraction",
+      "start": 0.0,
+      "end": 5.0,
+      "from": {
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 5,
+      "dancer": "B",
+      "action": "perform_isolated_arm_movements",
+      "start": 0.0,
+      "end": 5.0,
+      "from": {
+        "x": 24,
+        "y": 24
+      },
+      "to": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    {
+      "id": 6,
+      "dancer": "C",
+      "action": "deep_plié_with_slow_leg_extension",
+      "start": 0.0,
+      "end": 5.0,
+      "from": {
+        "x": 12,
+        "y": 0
+      },
+      "to": {
+        "x": 12,
+        "y": 0
+      }
+    },
+    {
+      "id": 7,
+      "dancer": "A",
+      "action": "transition_to_low_lunge",
+      "start": 5.0,
+      "end": 10.0,
+      "from": {
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 8,
+      "dancer": "B",
+      "action": "turn_downstage_and_agitated_steps_in_place",
+      "start": 5.0,
+      "end": 10.0,
+      "from": {
+        "x": 24,
+        "y": 24
+      },
+      "to": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    {
+      "id": 9,
+      "dancer": "C",
+      "action": "roll_to_fetal_position_with_subtle_twitching",
+      "start": 5.0,
+      "end": 10.0,
+      "from": {
+        "x": 12,
+        "y": 0
+      },
+      "to": {
+        "x": 12,
+        "y": 0
+      }
+    },
+    {
+      "id": 10,
+      "dancer": "A",
+      "action": "rise_to_standing_with_arched_back",
+      "start": 10.0,
+      "end": 12.0,
+      "from": {
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "x": 0,
+        "y": 0
+      }
+    },
+    {
+      "id": 11,
+      "dancer": "A",
+      "action": "take_two_slow_steps_towards_center",
+      "start": 12.0,
+      "end": 15.0,
+      "from": {
+        "x": 0,
+        "y": 0
+      },
+      "to": {
+        "x": 2,
+        "y": 2
+      }
+    },
+    {
+      "id": 12,
+      "dancer": "B",
+      "action": "continue_agitated_steps_moving_towards_center",
+      "start": 10.0,
+      "end": 15.0,
+      "from": {
+        "x": 24,
+        "y": 24
+      },
+      "to": {
+        "x": 22,
+        "y": 22
+      }
+    },
+    {
+      "id": 13,
+      "dancer": "C",
+      "action": "unfurl_and_wave_like_body_contraction",
+      "start": 10.0,
+      "end": 15.0,
+      "from": {
+        "x": 12,
+        "y": 0
+      },
+      "to": {
+        "x": 12,
+        "y": 0
+      }
+    },
+    {
+      "id": 14,
+      "dancer": "A",
+      "action": "collapse_into_deep_sustained_plié",
+      "start": 15.0,
+      "end": 20.0,
+      "from": {
+        "x": 2,
+        "y": 2
+      },
+      "to": {
+        "x": 2,
+        "y": 2
+      }
+    },
+    {
+      "id": 15,
+      "dancer": "B",
+      "action": "stop_and_slowly_look_towards_A",
+      "start": 15.0,
+      "end": 20.0,
+      "from": {
+        "x": 22,
+        "y": 22
+      },
+      "to": {
+        "x": 22,
+        "y": 22
+      }
+    },
+    {
+      "id": 16,
+      "dancer": "C",
+      "action": "sit_up_and_slowly_look_towards_B",
+      "start": 15.0,
+      "end": 20.0,
+      "from": {
+        "x": 12,
+        "y": 0
+      },
+      "to": {
+        "x": 12,
+        "y": 0
+      }
+    },
+    {
+      "id": 17,
+      "dancer": "A",
+      "action": "hesitant_arm_extension_towards_B",
+      "start": 20.0,
+      "end": 25.0,
+      "from": {
+        "x": 2,
+        "y": 2
+      },
+      "to": {
+        "x": 2,
+        "y": 2
+      }
+    },
+    {
+      "id": 18,
+      "dancer": "B",
+      "action": "walk_cautiously_on_diagonal_towards_A",
+      "start": 20.0,
+      "end": 25.0,
+      "from": {
+        "x": 22,
+        "y": 22
+      },
+      "to": {
+        "x": 10,
+        "y": 10
+      }
+    },
+    {
+      "id": 19,
+      "dancer": "C",
+      "action": "rise_and_step_towards_center_observing",
+      "start": 20.0,
+      "end": 25.0,
+      "from": {
+        "x": 12,
+        "y": 0
+      },
+      "to": {
+        "x": 15,
+        "y": 3
+      }
+    },
+    {
+      "id": 20,
+      "dancer": "A",
+      "action": "rise_slightly_and_sink_back_in_conflict",
+      "start": 25.0,
+      "end": 30.0,
+      "from": {
+        "x": 2,
+        "y": 2
+      },
+      "to": {
+        "x": 2,
+        "y": 2
+      }
+    },
+    {
+      "id": 21,
+      "dancer": "B",
+      "action": "reach_A_and_hover_hands",
+      "start": 25.0,
+      "end": 30.0,
+      "from": {
+        "x": 10,
+        "y": 10
+      },
+      "to": {
+        "x": 3,
+        "y": 3
+      }
+    },
+    {
+      "id": 22,
+      "dancer": "C",
+      "action": "move_behind_B_maintaining_watchful_posture",
+      "start": 25.0,
+      "end": 30.0,
+      "from": {
+        "x": 15,
+        "y": 3
+      },
+      "to": {
+        "x": 4,
+        "y": 4
+      }
+    },
+    {
+      "id": 23,
+      "dancer": "A",
+      "action": "slow_synchronized_push_pull_with_B",
+      "start": 30.0,
+      "end": 35.0,
+      "from": {
+        "x": 2,
+        "y": 2
+      },
+      "to": {
+        "x": 2,
+        "y": 2
+      },
+      "partner": "B"
+    },
+    {
+      "id": 24,
+      "dancer": "B",
+      "action": "slow_synchronized_push_pull_with_A",
+      "start": 30.0,
+      "end": 35.0,
+      "from": {
+        "x": 3,
+        "y": 3
+      },
+      "to": {
+        "x": 3,
+        "y": 3
+      },
+      "partner": "A"
+    },
+    {
+      "id": 25,
+      "dancer": "C",
+      "action": "circle_around_A_and_B_echoing_gestures",
+      "start": 30.0,
+      "end": 35.0,
+      "from": {
+        "x": 4,
+        "y": 4
+      },
+      "to": {
+        "x": 0,
+        "y": 12
+      }
+    },
+    {
+      "id": 26,
+      "dancer": "A",
+      "action": "interlock_hands_and_counterbalance_with_B",
+      "start": 35.0,
+      "end": 40.0,
+      "from": {
+        "x": 2,
+        "y": 2
+      },
+      "to": {
+        "x": 2,
+        "y": 2
+      },
+      "partner": "B"
+    },
+    {
+      "id": 27,
+      "dancer": "B",
+      "action": "interlock_hands_and_counterbalance_with_A",
+      "start": 35.0,
+      "end": 40.0,
+      "from": {
+        "x": 3,
+        "y": 3
+      },
+      "to": {
+        "x": 3,
+        "y": 3
+      },
+      "partner": "A"
+    },
+    {
+      "id": 28,
+      "dancer": "C",
+      "action": "move_to_upstage_center_and_empathetic_embrace_gesture",
+      "start": 35.0,
+      "end": 40.0,
+      "from": {
+        "x": 0,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 0
+      }
+    },
+    {
+      "id": 29,
+      "dancer": "A",
+      "action": "separate_from_B_and_acknowledge_C",
+      "start": 40.0,
+      "end": 45.0,
+      "from": {
+        "x": 2,
+        "y": 2
+      },
+      "to": {
+        "x": 2,
+        "y": 2
+      },
+      "partner": "B"
+    },
+    {
+      "id": 30,
+      "dancer": "B",
+      "action": "separate_from_A_and_acknowledge_C",
+      "start": 40.0,
+      "end": 45.0,
+      "from": {
+        "x": 3,
+        "y": 3
+      },
+      "to": {
+        "x": 3,
+        "y": 3
+      },
+      "partner": "A"
+    },
+    {
+      "id": 31,
+      "dancer": "C",
+      "action": "move_towards_A_and_B_inviting_connection",
+      "start": 40.0,
+      "end": 45.0,
+      "from": {
+        "x": 12,
+        "y": 0
+      },
+      "to": {
+        "x": 4,
+        "y": 2
+      }
+    },
+    {
+      "id": 32,
+      "dancer": "A",
+      "action": "meet_center_and_sink_with_group",
+      "start": 45.0,
+      "end": 50.0,
+      "from": {
+        "x": 2,
+        "y": 2
+      },
+      "to": {
+        "x": 11,
+        "y": 12
+      }
+    },
+    {
+      "id": 33,
+      "dancer": "B",
+      "action": "meet_center_and_sink_with_group",
+      "start": 45.0,
+      "end": 50.0,
+      "from": {
+        "x": 3,
+        "y": 3
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": 34,
+      "dancer": "C",
+      "action": "meet_center_and_sink_with_group",
+      "start": 45.0,
+      "end": 50.0,
+      "from": {
+        "x": 4,
+        "y": 2
+      },
+      "to": {
+        "x": 13,
+        "y": 12
+      }
+    },
+    {
+      "id": 35,
+      "dancer": "A",
+      "action": "interlock_arms_and_undulate_with_group",
+      "start": 50.0,
+      "end": 55.0,
+      "from": {
+        "x": 11,
+        "y": 12
+      },
+      "to": {
+        "x": 11,
+        "y": 12
+      }
+    },
+    {
+      "id": 36,
+      "dancer": "B",
+      "action": "interlock_arms_and_undulate_with_group",
+      "start": 50.0,
+      "end": 55.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": 37,
+      "dancer": "C",
+      "action": "interlock_arms_and_undulate_with_group",
+      "start": 50.0,
+      "end": 55.0,
+      "from": {
+        "x": 13,
+        "y": 12
+      },
+      "to": {
+        "x": 13,
+        "y": 12
+      }
+    },
+    {
+      "id": 38,
+      "dancer": "A",
+      "action": "collective_rise_and_huddle_for_support",
+      "start": 55.0,
+      "end": 60.0,
+      "from": {
+        "x": 11,
+        "y": 12
+      },
+      "to": {
+        "x": 11,
+        "y": 12
+      }
+    },
+    {
+      "id": 39,
+      "dancer": "B",
+      "action": "collective_rise_and_huddle_for_support",
+      "start": 55.0,
+      "end": 60.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": 40,
+      "dancer": "C",
+      "action": "collective_rise_and_huddle_for_support",
+      "start": 55.0,
+      "end": 60.0,
+      "from": {
+        "x": 13,
+        "y": 12
+      },
+      "to": {
+        "x": 13,
+        "y": 12
+      }
+    },
+    {
+      "id": 41,
+      "dancer": "A",
+      "action": "break_huddle_move_DL_and_expansive_arabesque",
+      "start": 60.0,
+      "end": 65.0,
+      "from": {
+        "x": 11,
+        "y": 12
+      },
+      "to": {
+        "x": 0,
+        "y": 24
+      }
+    },
+    {
+      "id": 42,
+      "dancer": "B",
+      "action": "move_DR_and_sustained_flowing_turn",
+      "start": 60.0,
+      "end": 65.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    {
+      "id": 43,
+      "dancer": "C",
+      "action": "move_to_center_and_grounded_powerful_lunge",
+      "start": 60.0,
+      "end": 65.0,
+      "from": {
+        "x": 13,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": 44,
+      "dancer": "A",
+      "action": "individual_expansive_movement_DL",
+      "start": 65.0,
+      "end": 70.0,
+      "from": {
+        "x": 0,
+        "y": 24
+      },
+      "to": {
+        "x": 0,
+        "y": 24
+      }
+    },
+    {
+      "id": 45,
+      "dancer": "B",
+      "action": "individual_expansive_movement_DR",
+      "start": 65.0,
+      "end": 70.0,
+      "from": {
+        "x": 24,
+        "y": 24
+      },
+      "to": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    {
+      "id": 46,
+      "dancer": "C",
+      "action": "individual_expansive_movement_center",
+      "start": 65.0,
+      "end": 70.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": 47,
+      "dancer": "A",
+      "action": "final_open_strong_serene_pose_DL",
+      "start": 70.0,
+      "end": 75.0,
+      "from": {
+        "x": 0,
+        "y": 24
+      },
+      "to": {
+        "x": 0,
+        "y": 24
+      }
+    },
+    {
+      "id": 48,
+      "dancer": "B",
+      "action": "final_open_strong_serene_pose_DR",
+      "start": 70.0,
+      "end": 75.0,
+      "from": {
+        "x": 24,
+        "y": 24
+      },
+      "to": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    {
+      "id": 49,
+      "dancer": "C",
+      "action": "final_open_strong_serene_pose_center",
+      "start": 70.0,
+      "end": 75.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    },
+    {
+      "id": 50,
+      "dancer": "A",
+      "action": "exit",
+      "start": 75.0,
+      "end": 75.0,
+      "from": {
+        "x": 0,
+        "y": 24
+      },
+      "to": {
+        "x": 0,
+        "y": 24
+      }
+    },
+    {
+      "id": 51,
+      "dancer": "B",
+      "action": "exit",
+      "start": 75.0,
+      "end": 75.0,
+      "from": {
+        "x": 24,
+        "y": 24
+      },
+      "to": {
+        "x": 24,
+        "y": 24
+      }
+    },
+    {
+      "id": 52,
+      "dancer": "C",
+      "action": "exit",
+      "start": 75.0,
+      "end": 75.0,
+      "from": {
+        "x": 12,
+        "y": 12
+      },
+      "to": {
+        "x": 12,
+        "y": 12
+      }
+    }
+  ]
+}
