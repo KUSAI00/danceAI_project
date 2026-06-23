@@ -39,26 +39,7 @@ well-structured activity, while smaller models (top) tend toward fragmented, gap
 
 ## 🧠 Pipeline
 
-```
-                 ┌─────────────────────────────────────────────────────────┐
-                 │                  generate → validate → refine            │
-                 └─────────────────────────────────────────────────────────┘
-
-  Prompt ──▶  [1] LLM generates        [2] Convert to        [3] Rule-based
-              choreography in   ──────▶  structured JSON  ──▶  validator.py
-              natural language          (25×25 grid)              │
-                                                                  │
-                                              ┌───────── ❌ invalid (violations)
-                                              ▼                   │
-                                    [4] Feedback prompt  ◀────────┘
-                                    describing violations
-                                              │
-                                              ▼
-                                    Regenerate JSON ──▶ re-validate
-                                              │
-                                              ▼
-                                       ✅ valid choreography saved
-```
+The pipeline runs a **generate → validate → refine** loop:
 
 1. **Choreography generation (natural language)** — 60–90 seconds, 2–5 dancers, with
    entrances/exits, movements, interactions, approximate timing and stage locations.
